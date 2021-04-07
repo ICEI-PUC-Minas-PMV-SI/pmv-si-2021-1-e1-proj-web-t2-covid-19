@@ -16,15 +16,15 @@ O poder público precisa organizar a vacinação de modo mais rápido e eficient
 
 ## Objetivos
 
-Auxiliar o sistema de saúde com um aplicativo Web (e/ou Mobile) de cadastro de pessoas e convocação das determinadas pessoas que se encaixam ao período de vacinação, organizar assim os dias e horários juntos ao Posto de Saúde específico. Somados a isso levantar dados relevantes a porcentagem de vacinados x população como forma de acompanhamento. 
+Auxiliar o sistema de saúde com um aplicativo Web (e/ou Mobile) de cadastro de pessoas e convocação dessas determinadas pessoas para vacinação. O sistema vai encaixar pessoas ao período de vacinação correto, organizar assim os dias e horários juntos aos Postos de Saúde específico. Somados à isso, levantar dados relevantes a porcentagem de vacinados x população_região como forma de acompanhamento de imunização da população da região. 
 
-Organizar a vacinação de modo a torná-la o mais eficiente possível: 
+- Organizar a vacinação de modo a torná-la o mais eficiente possível: 
 
-Fazer cadastro e convocação das pessoas aptas a serem vacinadas 
+- Fazer cadastro e convocação das pessoas aptas a serem vacinadas 
 
-Organizar a vacinação de acordo com as prioridades de público 
+- Organizar a vacinação de acordo com as prioridades de público (Faixa étaria, proximidade e etc )
 
-Informar ao usuário dia, hora e local da vacinação 
+- Informar ao usuário dia, hora e local da vacinação 
 
 ## Justificativa
 
@@ -41,3 +41,4 @@ O projeto se divide em dois públicos-alvo:
 O poder público municipal, sobretudo as prefeituras, que poderão organizar o estoque e o requerimento de imunizantes a fim de atender a população, além de convocar um número razoável de pessoas de modo a evitar a aglomeração. 
 
 A população que por meio do aplicativo, poderá se organizar de modo buscar meios de se deslocar até os locais de vacinação, evitando filas desnecessárias.
+
