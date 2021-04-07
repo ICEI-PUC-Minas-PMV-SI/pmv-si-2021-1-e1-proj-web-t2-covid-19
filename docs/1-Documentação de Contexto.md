@@ -1,46 +1,43 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A comunidade global enfrenta uma pandemia de coronavírus, um agente infeccioso transmitido por meio do ar. O distanciamento social é a principal medida para reduzir a transmissão. Algumas vacinas foram inventadas e já estão sendo aplicadas em larga escala. Nesse ponto, o desafio global se torna local. A gestão da vacinação exige a manutenção do distanciamento social e o respeito aos públicos prioritários para imunização. A maior parte das vacinas disponíveis exigem a aplicação de duas doses, com diferentes espaçamentos de tempo, a depender do laboratório fabricante. É importante o respeito aos prazos entre as dosagens para garantir a imunização. As vacinas ainda são escassas diante da quantidade de pessoas que anseiam ser vacinadas.  
+
+Há uma necessidade de um sistema para apoiar a gestão do processo de vacinação, com pré-cadastramento da população, convocação para vacinação, gestão das doses e demais informações sobre o processo.  É possível observar grandes cidades utilizando aplicativos para gestão da vacinação.  
+
+Nosso objetivo é contemplar as cidades médias e pequenas, que enfrentam esse desafio e poderiam fazer uso de um aplicativo que organize o processo de vacinação juntamente aos cidadãos.  Um projeto que se justifica pelo apoio na superação de um momento crítico, podendo agilizar um processo indispensável, evitando ainda a aglomeração de pessoas.  
+
+O projeto se volta a dois públicos: primeiramente, o poder público, que poderá se valer do recurso tecnológico como suporte para execução de seu processo de vacinação. Em segundo lugar, o cidadão, que poderá se informar, se cadastrar e acompanhar a data e local onde será vacinado.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Nos dias atuais, enfrentamos uma pandemia com o coronavírus (COVID-19) e toda a população está enfrentando problemas severos. As vacinas já estão sendo produzidas e aplicadas nas pessoas, mas está muito difícil fazer o gerenciamento, pois cada estado está lidando de modos diferentes com o problema. Essa desorganização geral faz com que a informação se perca ou se torne confusa.  
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+O poder público precisa organizar a vacinação de modo mais rápido e eficiente, afim de evitar aglomerações. Já o povo precisa de um local para se cadastrar para ser vacinado, com o intuito de ser vacinado o mais rápido possível e sem aglomeração, um local que organize e agende de maneira eficaz, e nas condições atuais se faz necessário ser um cadastro online, pois o presencial é demorado e gera aglomeração. 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Auxiliar o sistema de saúde com um aplicativo Web (e/ou Mobile) de cadastro de pessoas e convocação das determinadas pessoas que se encaixam ao período de vacinação, organizar assim os dias e horários juntos ao Posto de Saúde específico. Somados a isso levantar dados relevantes a porcentagem de vacinados x população como forma de acompanhamento. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Organizar a vacinação de modo a torná-la o mais eficiente possível: 
+
+Fazer cadastro e convocação das pessoas aptas a serem vacinadas 
+
+Organizar a vacinação de acordo com as prioridades de público 
+
+Informar ao usuário dia, hora e local da vacinação 
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Vivemos nos dias de hoje, em um cenário cujas transformações, atravessam nosso modo de vida de uma maneira que modifica antigos hábitos e criam-se outros. Nesse aspecto, dada a pandemia do coronavírus causada pelo vírus da sars-cov-2, e assim declarada pela OMS em março de 2020 (MOREIRA E PINHO, 2020), tivemos de mudar hábitos e costumes para nos adaptarmos a outros, mudando o contato social pelo isolamento, pela interatividade física pelas conexões online. Estas e outras medidas, adotadas como forma de prevenção ao contágio da doença, são elementos essenciais para manutenção da vida. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Neste cenário, a busca por uma imunizante eficaz e capaz de conter a contaminação da COVID-19, se tornou alvo de todos os países para evitar o colapso em seus serviços de saúde bem como o número de mortes da população. Com os avanços da medicina e da ciência, foi possível meses após a declaração de pandemia, a criação de vacinas que protegessem do contágio ao novo coronavírus. E como esperado, o mundo deseja pelo imunizante para vacinar as pessoas e evitar as mortes. Entretanto, têm-se visto uma gama de problemas no processo de vacinação, que vão contra as medidas essenciais de prevenção, pois, ao imunizar a população, esta, tem enfrentado longas filas, provocando aglomerações e contato físico. (DUMONT, 2021). 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Diante do exposto, torna-se necessário um gerenciamento eficaz e adequado na administração da aplicação de doses à população para manutenção do controle e progresso da campanha e assim, evitar novos contágios pelo coronavírus. Nesse sentido, propõe-se aqui, a criação e gerenciamento de um software que colabore com as equipes profissionais na gestão da vacinação. Para isso, pretende-se criar uma plataforma online de agendamentos em que a população de cada etapa da campanha, poderá solicitar dia e horário mais adequados à sua realidade particular, para comparecer a um dos postos de vacinação e receber o imunizante. O propósito deste trabalho, também está atrelado ao controle das doses aplicadas, respeitando a agenda dos órgãos de saúde competentes, adaptando às necessidades de cada pessoa que compõe o público alvo daquele momento da vacinação. Através desta plataforma, o agendamento permite a redução de filas, a consequente minimização de chances de contágio e ainda, a restrição de pessoas circulado pelos postos de saúde. Os principais ganhos estão na gestão eficaz da vacinação e do controle efetivo da população, dando chance para que todos possam ser vacinados com segurança e tranquilidade.  
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O projeto se divide em dois públicos-alvo:  
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
+O poder público municipal, sobretudo as prefeituras, que poderão organizar o estoque e o requerimento de imunizantes a fim de atender a população, além de convocar um número razoável de pessoas de modo a evitar a aglomeração. 
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+A população que por meio do aplicativo, poderá se organizar de modo buscar meios de se deslocar até os locais de vacinação, evitando filas desnecessárias.
