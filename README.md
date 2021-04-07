@@ -1,19 +1,22 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`SISTEMAS DE INFORMAÇÃO`
 
-`DISCIPLINA`
+`PROJETOS: APLICAÇÃO WEB`
 
-`SEMESTRE`
+`1º SEMESTRE`
 
 ## Integrantes
 
-- Obi-Wan Kenobi 
-- Anakin Skywalker
+- Jorge Lira
+- Leandro Gobbo
+- Lucas Mendes
+- Rômulo
+- Vitor
 
 ## Professor
 
-- Mestre Yoda
+- Kleber Souza
 
 # Documentação
 
