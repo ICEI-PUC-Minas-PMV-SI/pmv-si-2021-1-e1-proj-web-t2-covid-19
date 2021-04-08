@@ -10,7 +10,7 @@ O projeto se volta a dois públicos: primeiramente, o poder público, que poder�
 
 ## Problema
 
-Nos dias atuais, enfrentamos uma pandemia com o coronavírus (COVID-19) e toda a população está enfrentando problemas severos. As vacinas já estão sendo produzidas e aplicadas nas pessoas, mas está muito difícil fazer o gerenciamento, pois cada estado está lidando de modos diferentes com o problema. Essa desorganização geral faz com que a informação se perca ou se torne confusa.  
+Nos dias atuais, enfrentamos uma pandemia com o coronavírus (COVID-19) e toda a população está enfrentando problemas severos. As vacinas já estão sendo estudadas, produzidas, e aplicadas nas pessoas, mas está muito difícil fazer o gerenciamento, pois cada estado está lidando de modos diferentes com o problema. Essa desorganização geral faz com que a informação se perca ou se torne confusa.  
 
 O poder público precisa organizar a vacinação de modo mais rápido e eficiente, afim de evitar aglomerações. Já o povo precisa de um local para se cadastrar para ser vacinado, com o intuito de ser vacinado o mais rápido possível e sem aglomeração, um local que organize e agende de maneira eficaz, e nas condições atuais se faz necessário ser um cadastro online, pois o presencial é demorado e gera aglomeração. 
 
