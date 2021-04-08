@@ -12,7 +12,7 @@
 - Leandro Gobbo
 - Lucas Mendes
 - Rômulo
-- Vitor
+- Vitor Miranda
 
 ## Professor
 
