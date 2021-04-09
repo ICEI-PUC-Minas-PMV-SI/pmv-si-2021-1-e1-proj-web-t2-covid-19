@@ -12,6 +12,9 @@ Persona nº1:
 Flaviana, 43 anos
 A Flaviana trabalha com Secretaria de saúde na cidade de Moedas/MG, com uma renda mensal de R$ 3709,00, elas mantem sua vida com suas duas filhas, Elizabeth de 21 anos e Catarina de 19 anos. Ela procura por um meio mais simples e eficaz para conseguir gerenciar as vacinas e a ordem de vacinação dos postos de saúde de Moedas.
 
+Persona nº 2:
+Antônio, 60 anos, aposentado por invalidez. Mora na cidade com a esposa de 63 anos, o filho mais velho de 35, a nora de 30 e o neto de 5 anos. Tem histórico de tabagismo desde seus 20 anos e usa mendicamentos para asma. Não conehce de tecnologia, mas possui um celular em que navega na internet com auxílio da nora e do filho.
+
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
