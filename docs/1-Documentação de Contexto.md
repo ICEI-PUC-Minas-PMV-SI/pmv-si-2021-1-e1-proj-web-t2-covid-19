@@ -40,5 +40,5 @@ O projeto se divide em dois públicos-alvo:
 
 O poder público municipal, sobretudo as prefeituras, que poderão organizar o estoque e o requerimento de imunizantes a fim de atender a população, além de convocar um número razoável de pessoas de modo a evitar a aglomeração. 
 
-A população que por meio do aplicativo, poderá se organizar de modo buscar meios de se deslocar até os locais de vacinação, evitando filas desnecessárias.
+A população que por meio do aplicativo, poderá se organizar de modo buscar meios de se deslocar até os locais de vacinação, evitando filas desnecessárias. 
 
