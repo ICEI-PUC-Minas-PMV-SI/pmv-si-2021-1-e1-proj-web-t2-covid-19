@@ -8,7 +8,7 @@
 
 ## Integrantes
 
-- Jorge Lira
+- Jorge T H Lira Filho
 - Leandro Gobbo
 - Lucas Mendes
 - Rômulo
