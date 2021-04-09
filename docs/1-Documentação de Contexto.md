@@ -38,7 +38,7 @@ Diante do exposto, torna-se necessário um gerenciamento eficaz e adequado na ad
 
 O projeto se divide em dois públicos-alvo:  
 
-O poder público municipal, sobretudo as prefeituras, que poderão organizar o estoque e o requerimento de imunizantes a fim de atender a população, além de convocar um número razoável de pessoas de modo a evitar a aglomeração. 
+O poder público municipal, sobretudo as prefeituras,  poderão organizar os estoques e os requerimentos de imunizantes a fim de atender a população, além de convocar um número razoável de pessoas de modo a evitar a aglomeração e a propagação do virus. 
 
-A população que por meio do aplicativo, poderá se organizar de modo buscar meios de se deslocar até os locais de vacinação, evitando filas desnecessárias. 
+A população , por meio do aplicativo, poderá se organizar de modo buscar meios de se deslocar até os locais de vacinação, evitando filas desnecessárias. 
 
