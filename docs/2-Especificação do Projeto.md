@@ -15,6 +15,11 @@ A Flaviana trabalha com Secretaria de saúde na cidade de Moedas/MG, com uma ren
 Persona nº 2:
 Antônio, 60 anos, aposentado por invalidez. Mora na cidade com a esposa de 63 anos, o filho mais velho de 35, a nora de 30 e o neto de 5 anos. Tem histórico de tabagismo desde seus 20 anos e usa mendicamentos para asma. Não conehce de tecnologia, mas possui um celular em que navega na internet com auxílio da nora e do filho.
 
+persoma n 3
+Luiza. Agricultora aposentada.Moradora de Baixo Guandu,E.S.Idade 83 anos .Viúva há quatro anos . Mãe de quatro  finhos adultos.Que são dois meninos e duas meninas.Todos maiores de idade.Pouca esperiência com teclologia. Possui cormobidades que a torna no grupo de risco,como: diabetes, hipertensão, cardiopatia, arteriosclerose.  
+
+
+
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
