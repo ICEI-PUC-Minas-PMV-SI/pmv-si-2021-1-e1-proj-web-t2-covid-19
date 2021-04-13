@@ -15,7 +15,7 @@ Persona nº1:
 Flaviana, 43 anos, trabalha como Secretária de Saúde na cidade de Moeda/MG. Com uma renda mensal de R$ 3709,00, ela mantém a vida com suas duas filhas, Elizabeth, de 21 anos, e Catarina, de 19 anos. Ela procura por um meio mais simples e eficaz para conseguir gerenciar as vacinas e a ordem de vacinação dos postos de saúde de Moeda.
 
 Persona nº 2:
-Antônio, 60 anos, aposentado por invalidez. Mora na cidade com a esposa de 63 anos, o filho mais velho de 35, a nora de 30 e o neto de 5 anos. Tem histórico de tabagismo desde seus 20 anos e usa medicamentos para asma. Não conhece muito de tecnologia, mas possui um celular em que navega na internet com auxílio da nora e do filho.
+Antônio, 60 anos, aposentado por invalidez e tem renda mensal de R$2000,00. Mora na cidade de Paracatu com a esposa de 63 anos, o filho mais velho de 35, a nora de 30 e o neto de 5 anos. Tem histórico de tabagismo desde seus 20 anos e usa medicamentos para asma. Não conhece muito de tecnologia, mas possui um celular em que navega na internet com auxílio da nora e do filho.
 
 Persona nº 3:
 Luiza. Agricultora aposentada. Moradora de Baixo Guandu,ES. Idade 83 anos.Viúva há quatro anos. Mãe de quatro filhos adultos, que são dois meninos e duas meninas. Todos maiores de idade. Pouca experiência com tecnologia. Possui comorbidades como diabetes, hipertensão, cardiopatia e arteriosclerose, o que a torna grupo de risco.
