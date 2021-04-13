@@ -1,12 +1,12 @@
 # Introdução
 
-A comunidade global enfrenta uma pandemia de coronavírus, um agente infeccioso transmitido por meio do ar. O distanciamento social é a principal medida para reduzir a transmissão. Algumas vacinas foram inventadas e já estão sendo aplicadas em larga escala. Nesse ponto, o desafio global se torna local. A gestão da vacinação exige a manutenção do distanciamento social e o respeito aos públicos prioritários para imunização. A maior parte das vacinas disponíveis exigem a aplicação de duas doses, com diferentes espaçamentos de tempo, a depender do laboratório fabricante. É importante o respeito aos prazos entre as dosagens para garantir a imunização. As vacinas ainda são escassas diante da quantidade de pessoas que anseiam ser vacinadas.  
+Atualmente, a comunidade global enfrenta uma pandemia de coronavírus, um agente infeccioso transmitido por meio do ar. O distanciamento social é a principal medida para reduzir a transmissão. Algumas vacinas foram inventadas e já estão sendo aplicadas em larga escala. Nesse ponto, o desafio global se torna local. A gestão da vacinação exige a manutenção do distanciamento social e o respeito aos públicos prioritários para imunização. A maior parte das vacinas disponíveis exigem a aplicação de duas doses, com diferentes espaçamentos de tempo, a depender do laboratório fabricante. É importante o respeito aos prazos entre as dosagens para garantir a imunização. As vacinas ainda são escassas diante da quantidade de pessoas que anseiam ser vacinadas.  
 
 Há uma necessidade de um sistema para apoiar a gestão do processo de vacinação, com pré-cadastramento da população, convocação para vacinação, gestão das doses e demais informações sobre o processo.  É possível observar grandes cidades utilizando aplicativos para gestão da vacinação.  
 
 Nosso objetivo é contemplar as cidades médias e pequenas, que enfrentam esse desafio e poderiam fazer uso de um aplicativo que organize o processo de vacinação juntamente aos cidadãos.  Um projeto que se justifica pelo apoio na superação de um momento crítico, podendo agilizar um processo indispensável, evitando ainda a aglomeração de pessoas.  
 
-O projeto se volta a dois públicos: primeiramente, o poder público, que poderá se valer do recurso tecnológico como suporte para execução de seu processo de vacinação. Em segundo lugar, o cidadão, que poderá se informar, se cadastrar e acompanhar a data e local onde será vacinado.
+O projeto se volta a dois públicos. Primeiramente, o poder público, que poderá se valer do recurso tecnológico como suporte para execução de seu processo de vacinação. Em segundo lugar, o cidadão, que poderá se informar, se cadastrar e acompanhar a data e local onde será vacinado.
 
 ## Problema
 

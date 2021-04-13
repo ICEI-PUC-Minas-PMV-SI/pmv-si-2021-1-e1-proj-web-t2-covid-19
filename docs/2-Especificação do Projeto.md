@@ -9,14 +9,17 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 ## Personas
 
 Persona nº1:
-Flaviana, 43 anos
-A Flaviana trabalha com Secretaria de saúde na cidade de Moedas/MG, com uma renda mensal de R$ 3709,00, elas mantem sua vida com suas duas filhas, Elizabeth de 21 anos e Catarina de 19 anos. Ela procura por um meio mais simples e eficaz para conseguir gerenciar as vacinas e a ordem de vacinação dos postos de saúde de Moedas.
+Flaviana, 43 anos, trabalha como Secretária de Saúde na cidade de Moeda/MG. Com uma renda mensal de R$ 3709,00, ela mantém a vida com suas duas filhas, Elizabeth, de 21 anos, e Catarina, de 19 anos. Ela procura por um meio mais simples e eficaz para conseguir gerenciar as vacinas e a ordem de vacinação dos postos de saúde de Moeda.
 
 Persona nº 2:
-Antônio, 60 anos, aposentado por invalidez. Mora na cidade com a esposa de 63 anos, o filho mais velho de 35, a nora de 30 e o neto de 5 anos. Tem histórico de tabagismo desde seus 20 anos e usa mendicamentos para asma. Não conehce de tecnologia, mas possui um celular em que navega na internet com auxílio da nora e do filho.
+Antônio, 60 anos, aposentado por invalidez. Mora na cidade com a esposa de 63 anos, o filho mais velho de 35, a nora de 30 e o neto de 5 anos. Tem histórico de tabagismo desde seus 20 anos e usa medicamentos para asma. Não conhece muito de tecnologia, mas possui um celular em que navega na internet com auxílio da nora e do filho.
 
-persoma n 3
-Luiza. Agricultora aposentada.Moradora de Baixo Guandu,E.S.Idade 83 anos .Viúva há quatro anos . Mãe de quatro  finhos adultos.Que são dois meninos e duas meninas.Todos maiores de idade.Pouca esperiência com teclologia. Possui cormobidades que a torna no grupo de risco,como: diabetes, hipertensão, cardiopatia, arteriosclerose.  
+Persona nº 3:
+Luiza. Agricultora aposentada. Moradora de Baixo Guandu,ES. Idade 83 anos.Viúva há quatro anos. Mãe de quatro filhos adultos, que são dois meninos e duas meninas. Todos maiores de idade. Pouca experiência com tecnologia. Possui comorbidades como diabetes, hipertensão, cardiopatia e arteriosclerose, o que a torna grupo de risco.
+
+Persona nº 4: 
+Roberta, 52 anos, professora. É casada e mãe de três filhos, de 14, 16 e 22 anos. Mora em Barbacena/MG. Roberta é vizinha dos próprios pais, de quem ajuda a cuidar. O casal de idosos tem 84 e 89 anos. Roberta está preocupada com a vacinação dos pais. O pai tem a saúde precária e não pode se deslocar até o local de vacinação. Além dos pais, Roberta gostaria de pré-cadastrar a si mesma e aos filhos menores. 
+
 
 
 
