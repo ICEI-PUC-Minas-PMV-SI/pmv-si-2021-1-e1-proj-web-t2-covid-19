@@ -11,7 +11,7 @@
 - Jorge T H Lira Filho
 - Leandro Gobbo
 - Lucas Mendes
-- Rômulo
+- Rômulo Medeiros
 - Vitor Miranda
 
 ## Professor
