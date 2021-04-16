@@ -34,7 +34,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Antônio             | Agendar vacinação e saber qual instituição e saúde ir | Me informar de forma precisa |
+|Antônio (usuário do sistema) | Agendar vacinação e saber qual instituição de saúde devo ir | Me informar de forma precisa |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
@@ -55,6 +55,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-003| Informar se usuário pertence ao grupo de vacinação foco | ALTA |
+|RF-004| Permitir que o usuário cadastre dados pessoais | ALTA |
+|RF-005| Enviar alerta em email cadastrado pelo usuário informando do agendamento | MÉDIA |
+|RF-006| Permitir que usuário acompanhe status de seu cadastro para vacinação | MÉDIA |
+|RF-007| Permitir que usuário escolha uma insituição de sua cidade para vacinar-se | ALTA |
+
 
 
 ### Requisitos não Funcionais
