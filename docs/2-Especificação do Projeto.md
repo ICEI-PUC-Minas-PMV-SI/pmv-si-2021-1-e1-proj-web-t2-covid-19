@@ -77,17 +77,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-007| Enviar alerta em email cadastrado pelo usuário informando do agendamento | MÉDIA |
 |RF-008| Permitir que usuário acompanhe status de seu cadastro para vacinação | MÉDIA |
 
- |RF-001| Incluir, Excluir, alterar dados cadastrais.
- |RF-002| Cadastramento com o cartão do sus
- |RF-003|link para obtenção do cartão do sus digital
- |RF-004|informações da hora, data e  local  de vacinação
- |RF-005|Prazo de tempo de vacinação para o dia
- |RF-006|número de pessoas atendidas
- |RF-007|Idade contemplada para a vacinação
- |RF-008|data estimada para a segunda dose
- |RF-009|qual a vacina que será injetada
-
-
 
 ### Requisitos não Funcionais
 
@@ -97,8 +86,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
+REQUISITOS FUNCIONAIS:
+|RF-001| Incluir, Excluir, alterar dados cadastrais.
+ |RF-002| Cadastramento com o cartão do sus
+ |RF-003|link para obtenção do cartão do sus digital
+ |RF-004|informações da hora, data e  local  de vacinação
+ |RF-005|Prazo de tempo de vacinação para o dia
+ |RF-006|número de pessoas atendidas
+ |RF-007|Idade contemplada para a vacinação
+ |RF-008|data estimada para a segunda dose
+ |RF-009|qual a vacina que será injetada
+-
+ [Requisitos Funcionais
  (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
  correspondem a uma funcionalidade que deve estar presente na
   plataforma (ex: cadastro de usuário).
