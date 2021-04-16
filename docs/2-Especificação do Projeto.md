@@ -7,7 +7,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 (*Verificar time)
-Analisamos as personas baseados em como elas se beneficiariam com as inovações trazidas pelo sistema criado. Através de uma análise em porque usar o produto, suas preocupações e medos que levariam a usar o sistema, como seus comportamentos levariam a eventualmente procurar uma solução para um problema comum em suas vida. A necessidade apresentada com as vantagens de usar o sistemas, seus proveitos e conveniências. Um sistema disruptivo na área de saúde.
+Em se tratando da necessidade de realizar o gerencimanento da vacinação contra a COVID-19, analisamos o porquê em usar este sistema, dado o possível receio, por parte da população ao usar uma nova aplicação que fosse eficaz para gerenciar um problema enfrentado pelos órgãos de saúde do governo. Analisamos as personas, de diferentes públicos, baseados em como elas se beneficiariam com as funcionalidades trazidas pelo sistema criado. Ainda, foi considerada a necessidade apresentada pela população em se organizar para se vacinar, pensando nas vantagens de usar o sistema, seus proveitos e conveniências e que fosse de fácil acesso a todos. Para os requisitos foram avaliadas as posssibilidades de interação de usuários de diferentes públicos com a aplicação, dando margem para melhorias na acessibilidade do sistema. Entendemos que este se define por um sistema disruptivo na área de saúde, colaborando para a melhor gestão de um elemento necessário para toda sociedade. 
 
 ## Personas
 
