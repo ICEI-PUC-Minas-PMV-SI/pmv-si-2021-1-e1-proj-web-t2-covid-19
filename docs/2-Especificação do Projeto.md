@@ -23,8 +23,21 @@ Luiza. Agricultora aposentada. Moradora de Baixo Guandu,ES. Idade 83 anos.Viúva
 Persona nº 4: 
 Roberta, 52 anos, professora. É casada e mãe de três filhos, de 14, 16 e 22 anos. Mora em Barbacena/MG. Roberta é vizinha dos próprios pais, de quem ajuda a cuidar. O casal de idosos tem 84 e 89 anos. Roberta está preocupada com a vacinação dos pais. O pai tem a saúde precária e não pode se deslocar até o local de vacinação. Além dos pais, Roberta gostaria de pré-cadastrar a si mesma e aos filhos menores. 
 
+<<<<<<< Updated upstream
 Persona nº 5:
 Jonathan, 58 anos, desenvolvedor de software em uma grande empresa de tecnologia em São Paulo-SP, aonde morou toda sua vida. Salário médio de R$8.000,00/mês. Possui esposa e 2 filhos com idades 15 e 13 anos, esposa é dona de uma loja de roupas femininas. Jonathan possui bacharelado em Sistemas de informação e sua esposa em administração. Como amante de tecnologia, Jonathan, prefere ter a vida facilitada e ágil que os sistemas tradicionais não supreem. Jonathan atenado sabe dos perigos do covid-19 e do contagio para sua família além de afetar os negócios da sua esposa, para eles tempo é dinheiro.
+=======
+
+> **Links Úteis**:
+> - [Rock Content](https://rockcontent.com/blog/personas/)
+> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
+> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
+> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
+> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
+> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
+>
+Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+>>>>>>> Stashed changes
 
 ## Histórias de Usuários
 
