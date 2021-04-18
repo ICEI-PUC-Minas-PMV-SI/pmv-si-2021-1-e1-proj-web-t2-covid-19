@@ -87,7 +87,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 REQUISITOS FUNCIONAIS:
- |RF-001| Incluir, Excluir, alterar dados cadastrais.
+ |RF-001| Incluir, Excluir, alterar dados cadastrais."<br>"
  |RF-002| Cadastramento com o cartão do sus
  |RF-003|link para obtenção do cartão do sus digital
  |RF-004|informações da hora, data e  local  de vacinação
