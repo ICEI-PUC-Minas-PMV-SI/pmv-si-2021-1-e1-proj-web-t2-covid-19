@@ -2,11 +2,6 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
-(*Verificar time)
 Em se tratando da necessidade de realizar o gerencimanento da vacinação contra a COVID-19, analisamos o porquê em usar este sistema, dado o possível receio, por parte da população ao usar uma nova aplicação que fosse eficaz para gerenciar um problema enfrentado pelos órgãos de saúde do governo. Analisamos as personas, de diferentes públicos, baseados em como elas se beneficiariam com as funcionalidades trazidas pelo sistema criado. Ainda, foi considerada a necessidade apresentada pela população em se organizar para se vacinar, pensando nas vantagens de usar o sistema, seus proveitos e conveniências e que fosse de fácil acesso a todos. Para os requisitos foram avaliadas as posssibilidades de interação de usuários de diferentes públicos com a aplicação, dando margem para melhorias na acessibilidade do sistema. Entendemos que este se define por um sistema disruptivo na área de saúde, colaborando para a melhor gestão de um elemento necessário para toda sociedade. 
 
 ## Personas
