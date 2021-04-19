@@ -25,14 +25,17 @@ Jonathan, 58 anos, desenvolverdor de software em uma grande empresa de tecnologi
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-| Antônio (usuário do sistema) | Agendar vacinação e saber qual instituição de saúde deve ir | Informar quando deve ir se vacinar |
+| Antônio (usuário do sistema) | Agendar vacinação | Usuário precisar saber com antecedência quando irar se vacinar |
+| Antônio (usuário do sistema) | Saber qual instituição de saúde deve ir | Na hora de agendar deve-se saber o local disponível para se vacinar  |
+| Antônio (usuário do sistema) | Notificação quando deve ir se vacinar  | Receber um lembrete do agendamento |
 | Roberta (usuário do sistema) | Cadastrar seus pais, seus filhos e a si mesma | Permitir cadastro de dependentes |
 | Roberta (usuário do sistema) | Solicitar vacinação residencial para o pai | Permitir cadastro de restriçao de mobilidade |
 | Luiza (usuária do sistema) | Ser informada do dia e a hora para o comparecimento à unidade de saúde para receber o imunizante | Para evitar aglomerações.| 
 | Flaviana (Administradora) | Agendar vacinações dos postos de saúde | Ter organização e um controle sobre a situação |
 | Flaviana (Administradora) | Ter acesso aos cadastros dos postos de saúde | Para destribuição melhor da vacina |
 | Flaviana (Administradora) | Saber sobre os resultados das vacinas | Para ter um feedback dos postos de sáude |
-
+| Jonathan (usuária do sistema) | Agendar a vacinação usando o SUS | Facilitar o cadastro de usuário |
+| Jonathan (usuária do sistema) | Verificar os índices de imunização em seu estado | Estar atualziado sobre a a % de vacinação na sua região |
 
 ## Requisitos
 
@@ -65,7 +68,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais.
 |RF-021| Permitir que seja possível trocar a coloração do site para Azul | BAIXA |
 |RF-022| Permitir que seja possível trocar a coloração do site para Amarelo | BAIXA |
 |RF-023| Permitir que seja possível trocar a coloração do site para Rosa | BAIXA |
-|RF-023| Permitir que seja possível trocar a coloração do site para Vermelhor | BAIXA |
+|RF-023| Permitir que seja possível trocar a coloração do site para Vermelho | BAIXA |
 
 ### Requisitos não Funcionais
 
@@ -77,6 +80,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais.
 |RNF-004| Módulo de informações cadastrais offline | MÉDIA |
 |RNF-005| O sistema não pode corromper dados | ALTA |
 |RNF-006| O sistema deve salvar os registros | ALTA |
+|RNF-007| Design do sistema intuitivo | ALTA |
 
 ## Restrições
 
@@ -88,7 +92,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| Não pode ser desenvolvido um módulo de backend        |
 |03| Não pode ser desenvolvido em app ou desktop           |
 |04| O projeto não deve abranger o território nacional     |
-
+|05| O servidor deve ser hospedado em cloud                |
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
