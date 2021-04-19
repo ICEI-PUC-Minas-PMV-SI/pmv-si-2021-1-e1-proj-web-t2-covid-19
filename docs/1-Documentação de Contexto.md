@@ -10,25 +10,25 @@ O projeto se volta a dois públicos. Primeiramente, o poder público, que poder�
 
 ## Problema
 
-Nos dias atuais, enfrentamos uma pandemia com o coronavírus (COVID-19) e toda a população está enfrentando problemas severos. As vacinas já estão sendo estudadas, produzidas, e aplicadas nas pessoas, mas está muito difícil fazer o gerenciamento, pois cada estado está lidando de modos diferentes com o problema. Essa desorganização geral faz com que a informação se perca ou se torne confusa.  
+Nos dias atuais, enfrentamos uma pandemia de Covid-19 e toda a população está sofrendo com problemas severos. As vacinas já estão sendo estudadas, produzidas e aplicadas nas pessoas, mas está muito difícil fazer o gerenciamento, pois cada estado e município está lidando de modos diferentes com o problema. Essa desorganização geral faz com que a informação se perca ou se torne confusa.  
 
-O poder público precisa organizar a vacinação de modo mais rápido e eficiente, afim de evitar aglomerações. Já o povo precisa de um local para se cadastrar para ser vacinado, com o intuito de ser vacinado o mais rápido possível e sem aglomeração, um local que organize e agende de maneira eficaz, e nas condições atuais se faz necessário ser um cadastro online, pois o presencial é demorado e gera aglomeração. 
+O poder público precisa organizar a vacinação de modo mais rápido e eficiente, a fim de evitar aglomerações. Já o povo precisa de um local para se cadastrar para ser vacinado, com o intuito de ser vacinado o mais rápido possível e sem aglomeração, um local que organize e agende de maneira eficaz. Sobretudo nas condições atuais, se faz necessário ser um cadastro online, pois o presencial é demorado e promove contato interpessoal. 
 
 ## Objetivos
 
-Auxiliar o sistema de saúde com um aplicativo Web (e/ou Mobile) de cadastro de pessoas e convocação dessas determinadas pessoas para vacinação. O sistema vai encaixar pessoas ao período de vacinação correto, organizar assim os dias e horários juntos aos Postos de Saúde específico. Somados à isso, levantar dados relevantes a porcentagem de vacinados x população_região como forma de acompanhamento de imunização da população da região. 
+Auxiliar o sistema de saúde com um aplicativo web de cadastro e convocação das pessoas para vacinação. O sistema vai encaixar indivíduos nos períodos de vacinação corretos, organizando assim os dias e horários junto aos pontos de imunização específicos. Somado à isso, o aplicativo deve levantar dados relevantes.
 
-- Organizar a vacinação de modo a torná-la o mais eficiente possível: 
+- Organizar a vacinação de modo a torná-la o mais eficiente possível 
 
 - Fazer cadastro e convocação das pessoas aptas a serem vacinadas 
 
-- Organizar a vacinação de acordo com as prioridades de público (Faixa étaria, proximidade e etc )
+- Organizar a vacinação de acordo com as prioridades de público (risco, faixa étaria, proximidade, etc.)
 
-- Informar ao usuário dia, hora e local da vacinação 
+- Informar ao usuário dia, hora e local da vacinação da 1ª e 2ª doses 
 
 ## Justificativa
 
-Vivemos nos dias de hoje, em um cenário cujas transformações, atravessam nosso modo de vida de uma maneira que modifica antigos hábitos e criam-se outros. Nesse aspecto, dada a pandemia do coronavírus causada pelo vírus da sars-cov-2, e assim declarada pela OMS em março de 2020 (MOREIRA E PINHO, 2020), tivemos de mudar hábitos e costumes para nos adaptarmos a outros, mudando o contato social pelo isolamento, pela interatividade física pelas conexões online. Estas e outras medidas, adotadas como forma de prevenção ao contágio da doença, são elementos essenciais para manutenção da vida. 
+Vivemos, nos dias de hoje, em um cenário repleto de transformações que atravessam nosso modo de vida, modificando antigos hábitos e criando novos outros. Nesse aspecto, dada a pandemia de Covid-19 declarada pela OMS em março de 2020 (MOREIRA E PINHO, 2020), tivemos de mudar hábitos e costumes para nos adaptarmos a outros, mudando o contato social pelo isolamento, pela interatividade física pelas conexões online. Estas e outras medidas, adotadas como forma de prevenção ao contágio da doença, são elementos essenciais para manutenção da vida. 
 
 Neste cenário, a busca por uma imunizante eficaz e capaz de conter a contaminação da COVID-19, se tornou alvo de todos os países para evitar o colapso em seus serviços de saúde bem como o número de mortes da população. Com os avanços da medicina e da ciência, foi possível meses após a declaração de pandemia, a criação de vacinas que protegessem do contágio ao novo coronavírus. E como esperado, o mundo deseja pelo imunizante para vacinar as pessoas e evitar as mortes. Entretanto, têm-se visto uma gama de problemas no processo de vacinação, que vão contra as medidas essenciais de prevenção, pois, ao imunizar a população, esta, tem enfrentado longas filas, provocando aglomerações e contato físico. (DUMONT, 2021). 
 
@@ -38,7 +38,7 @@ Diante do exposto, torna-se necessário um gerenciamento eficaz e adequado na ad
 
 O projeto se divide em dois públicos-alvo:  
 
-O poder público municipal, sobretudo as prefeituras,  poderão organizar os estoques e os requerimentos de imunizantes a fim de atender a população, além de convocar um número razoável de pessoas de modo a evitar a aglomeração e a propagação do virus. 
+O poder público municipal, ou seja, as prefeituras, que poderão organizar os estoques e os requerimentos de imunizantes a fim de atender a população, convocando um número razoável de pessoas de modo a evitar a aglomeração e a propagação do virus. A comunicação com a população é facilitada pelo aplicativo. 
 
-A população , por meio do aplicativo, poderá se organizar de modo buscar meios de se deslocar até os locais de vacinação, evitando filas desnecessárias. 
+A população, por meio do aplicativo, poderá se organizar de modo buscar meios de se deslocar até os locais de vacinação, evitando filas desnecessárias. O acesso à informação sobre a vacinação é aprimorado pelo aplicativo. 
 

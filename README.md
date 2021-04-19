@@ -1,4 +1,4 @@
-# GREICE - Gestão e Registro Específico de Imunização COVID-19
+# GREICE - Gestão de Registro de Imunização contra a COVID-19
 
 `SISTEMAS DE INFORMAÇÃO`
 
@@ -8,7 +8,7 @@
 
 ## Integrantes
 
-- Jorge T H Lira Filho
+- Jorge Lira Filho
 - Leandro Gobbo
 - Lucas Mendes
 - Rômulo Medeiros
