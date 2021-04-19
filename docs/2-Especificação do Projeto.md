@@ -23,30 +23,14 @@ Jonathan, 58 anos, desenvolverdor de software em uma grande empresa de tecnologi
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Antônio (usuário do sistema) | Agendar vacinação e saber qual instituição de saúde deve ir | Informar quando deve ir se vacinar |
-
 |Roberta (usuário do sistema) | Cadastrar seus pais, seus filhos e a si mesma | Permitir cadastro de dependentes |
-
 |Roberta (usuário do sistema) | Solicitar vacinação residencial para o pai | Permitir cadastro de restriçao de mobilidade |
-
-|Luiza (usuária do sistema)| Ser informada do dia e a hora para o comparecimento à unidade de saúde para receber o imunizante|. Dessa forma, evitar aglomerações.| 
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|Luiza (usuária do sistema) | Ser informada do dia e a hora para o comparecimento à unidade de saúde para receber o imunizante|. Dessa forma, evitar aglomerações.| 
+|Flaviana (Administradora) | Agendar vacinações dos postos de saúde | Ter organização e um controle sobre a situação |
 
 ## Requisitos
 
@@ -63,7 +47,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-005| Apresentar ao usuário as instituições de sua cidade que disponilizam vacinação para que possa escolher  | ALTA | 
 |RF-006| Permitir que usuário selecione data e horário de agendamento | ALTA |
 |RF-007| Enviar alerta em email cadastrado pelo usuário informando do agendamento | MÉDIA |
-  |RF-008| Permitir que usuário acompanhe status de seu cadastro para vacinação (1ª e 2ª doses) | MÉDIA |
+|RF-008| Permitir que usuário acompanhe status de seu cadastro para vacinação (1ª e 2ª doses) | MÉDIA |
 |RF-008| Permitir que o usuário informe condições de saúde que o qualifiquem como público prioritário | MÉDIA |
 |RF-009| Permitir ao administrador que defina os públicos convocados para vacinação | ALTA |
 |RF-010| Permitir ao administrador que cadastre os pontos de vacinação | ALTA |
@@ -79,15 +63,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:"<br>"
 REQUISITOS FUNCIONAIS:"<br>"
- |RF-001| Incluir, Excluir, alterar dados cadastrais."<br>"
- |RF-002| Cadastramento com o cartão do sus"<br>"
- |RF-003|link para obtenção do cartão do sus digital"<br>"
- |RF-004|informações da hora, data e  local  de vacinação"<br>"
- |RF-005|Prazo de tempo de vacinação para o dia"<br>"
- |RF-006|número de pessoas atendidas"<br>"
- |RF-007|Idade contemplada para a vacinação"<br>"
- |RF-008|data estimada para a segunda dose"<br>"
- |RF-009|qual a vacina que será injetada
+|RF-001| Incluir, Excluir, alterar dados cadastrais."<br>"
+|RF-002| Cadastramento com o cartão do sus"<br>"
+|RF-003|link para obtenção do cartão do sus digital"<br>"
+|RF-004|informações da hora, data e  local  de vacinação"<br>"
+|RF-005|Prazo de tempo de vacinação para o dia"<br>"
+|RF-006|número de pessoas atendidas"<br>"
+|RF-007|Idade contemplada para a vacinação"<br>"
+|RF-008|data estimada para a segunda dose"<br>"
+|RF-009|qual a vacina que será injetada
 -
  [Requisitos Funcionais
  (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
