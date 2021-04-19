@@ -1,4 +1,4 @@
-# Greice
+# GREICE - Gestão e Registro Específico de Imunização COVID-19
 
 `SISTEMAS DE INFORMAÇÃO`
 

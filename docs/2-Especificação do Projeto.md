@@ -49,9 +49,15 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Antônio (usuário do sistema) | Agendar vacinação e saber qual instituição de saúde deve ir | Informar quando deve ir se vacinar |
 
-Luiza (usuária do sistema)|.Ser informada do dia e a hora para o comparecimento à unidade de saúde para receber o imunizante|. Dessa forma, evitar aglomerações.| 
+|Roberta (usuário do sistema) | Cadastrar seus pais, seus filhos e a si mesma | Permitir cadastro de dependentes |
+
+|Roberta (usuário do sistema) | Solicitar vacinação residencial para o pai | Permitir cadastro de restriçao de mobilidade |
+
+|Luiza (usuária do sistema)| Ser informada do dia e a hora para o comparecimento à unidade de saúde para receber o imunizante|. Dessa forma, evitar aglomerações.| 
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+
+
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
@@ -68,22 +74,26 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-003| Permitir que o usuário cadastre dados pessoais | ALTA |
-|RF-004| Informar se usuário pertence ao grupo de vacinação foco | ALTA |
-|RF-005| Permitir que usuário escolha uma insituição de sua cidade para vacinar-se | ALTA |
+|RF-001| Permitir que usuário cadastre dependentes (pais, filhos) | MÉDIA | 
+|RF-002| Oferecer uma opção para solicitação de vacinação residencial para os públicos com restrição de mobilidade   | ALTA |
+|RF-003| Permitir que o cadastro de dados pessoais em uma conta de usuário | ALTA |
+|RF-004| Informar se usuário pertence ao grupo de vacinação prioritário | ALTA |
+|RF-005| Apresentar ao usuário as instituições de sua cidade que disponilizam vacinação para que possa escolher  | ALTA | 
 |RF-006| Permitir que usuário selecione data e horário de agendamento | ALTA |
 |RF-007| Enviar alerta em email cadastrado pelo usuário informando do agendamento | MÉDIA |
-|RF-008| Permitir que usuário acompanhe status de seu cadastro para vacinação | MÉDIA |
-
+  |RF-008| Permitir que usuário acompanhe status de seu cadastro para vacinação (1ª e 2ª doses) | MÉDIA |
+|RF-008| Permitir que o usuário informe condições de saúde que o qualifiquem como público prioritário | MÉDIA |
+|RF-009| Permitir ao administrador que defina os públicos convocados para vacinação | ALTA |
+|RF-010| Permitir ao administrador que cadastre os pontos de vacinação | ALTA |
+|RF-011| Permitir que o administrador envie mensagens para usuários cadastrados | MÉDIA |  
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| O sistema deve garantir a segurança dos dados dos usuários
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:"<br>"
 REQUISITOS FUNCIONAIS:"<br>"
