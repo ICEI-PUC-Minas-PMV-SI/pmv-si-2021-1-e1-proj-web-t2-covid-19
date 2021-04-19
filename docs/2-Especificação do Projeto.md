@@ -36,7 +36,7 @@ Jonathan, 58 anos, desenvolverdor de software em uma grande empresa de tecnologi
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+As tabelas que se seguem apresentam os requisitos funcionais e não funcionais.
 
 ### Requisitos Funcionais
 
