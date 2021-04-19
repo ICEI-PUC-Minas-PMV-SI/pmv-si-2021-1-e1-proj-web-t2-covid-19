@@ -12,11 +12,13 @@ O projeto se volta a dois públicos. Primeiramente, o poder público, que poder�
 
 Nos dias atuais, enfrentamos uma pandemia de Covid-19 e toda a população está sofrendo com problemas severos. As vacinas já estão sendo estudadas, produzidas e aplicadas nas pessoas, mas está muito difícil fazer o gerenciamento, pois cada estado e município está lidando de modos diferentes com o problema. Essa desorganização geral faz com que a informação se perca ou se torne confusa.  
 
-O poder público precisa organizar a vacinação de modo mais rápido e eficiente, a fim de evitar aglomerações. Já o povo precisa de um local para se cadastrar para ser vacinado, com o intuito de ser vacinado o mais rápido possível e sem aglomeração, um local que organize e agende de maneira eficaz. Sobretudo nas condições atuais, se faz necessário ser um cadastro online, pois o presencial é demorado e promove contato interpessoal. 
+O poder público precisa organizar a vacinação de modo mais rápido e eficiente, a fim de evitar aglomerações. Já a população precisa de um local para se cadastrar e receber o imunizante, com o intuito de ser vacinado o mais rápido possível e sem aglomerações, contando com um local que organize e agende a aplicação de maneira eficaz. Sobretudo nas condições atuais, se faz necessário ser um cadastro online, pois o presencial é demorado e promove contato interpessoal. 
 
 ## Objetivos
 
 Auxiliar o sistema de saúde com um aplicativo web de cadastro e convocação das pessoas para vacinação. O sistema vai encaixar indivíduos nos períodos de vacinação corretos, organizando assim os dias e horários junto aos pontos de imunização específicos. Somado à isso, o aplicativo deve levantar dados relevantes.
+
+Objetivos específicos:
 
 - Organizar a vacinação de modo a torná-la o mais eficiente possível 
 
