@@ -2,10 +2,6 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
 Considerando a necessidade de realizar o gerenciamento da vacinação contra a Covid-19, avaliamos as motivações para os usuários adotarem um sistema para gerenciar o processo de imunização. Nesse sentido, analisamos as personas, levando em conta os mais diferentes públicos, tendo em vista a identificação das formas como eles se beneficiariam com as funcionalidades oferecidas pelo sistema. Foi considerada, ainda, a necessidade apresentada pela população de se organizar e se informar sobre a vacinação, dadas as vantagens de se usar o sistema, seus recursos e conveniências, de fácil acesso a todos. 
 
 Para a definição dos requisitos, foram criadas personas bem diversas, de modo a revelar possibilidades de interação de usuários de diferentes públicos com a aplicação, dando margem para melhorias na efetividade do sistema. Entendemos que este se define por um sistema transformador na área de saúde, colaborando para a melhor gestão de um processo essencial para toda sociedade. 
@@ -33,14 +29,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Antônio (usuário do sistema) | Agendar vacinação e saber qual instituição de saúde deve ir | Informar quando deve ir se vacinar |
-
 |Roberta (usuária do sistema) | Cadastrar seus pais, seus filhos e a si mesma | Permitir cadastro de dependentes |
-
 |Roberta (usuário do sistema) | Solicitar vacinação residencial para o pai | Permitir cadastro de restriçao de mobilidade |
-
 |Luiza (usuária do sistema)| Ser informada do dia e a hora para o comparecimento à unidade de saúde para receber o imunizante|. Dessa forma, evitar aglomerações.| 
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
