@@ -25,12 +25,14 @@ Jonathan, 58 anos, desenvolverdor de software em uma grande empresa de tecnologi
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Antônio (usuário do sistema) | Agendar vacinação e saber qual instituição de saúde deve ir | Informar quando deve ir se vacinar |
-|Roberta (usuário do sistema) | Cadastrar seus pais, seus filhos e a si mesma | Permitir cadastro de dependentes |
-|Roberta (usuário do sistema) | Solicitar vacinação residencial para o pai | Permitir cadastro de restriçao de mobilidade |
-|Luiza (usuária do sistema) | Ser informada do dia e a hora para o comparecimento à unidade de saúde para receber o imunizante|. Dessa forma, evitar aglomerações.| 
-|Flaviana (Administradora) | Agendar vacinações dos postos de saúde | Ter organização e um controle sobre a situação |
+| Antônio (usuário do sistema) | Agendar vacinação e saber qual instituição de saúde deve ir | Informar quando deve ir se vacinar |
+| Roberta (usuário do sistema) | Cadastrar seus pais, seus filhos e a si mesma | Permitir cadastro de dependentes |
+| Roberta (usuário do sistema) | Solicitar vacinação residencial para o pai | Permitir cadastro de restriçao de mobilidade |
+| Luiza (usuária do sistema) | Ser informada do dia e a hora para o comparecimento à unidade de saúde para receber o imunizante | Para evitar aglomerações.| 
+| Flaviana (Administradora) | Agendar vacinações dos postos de saúde | Ter organização e um controle sobre a situação |
+| Flaviana (Administradora) | Ter acesso aos cadastros dos postos de saúde | Para destribuição melhor da vacina |
+| Flaviana (Administradora) | Saber sobre os resultados das vacinas | Para ter um feedback dos postos de sáude |
+
 
 ## Requisitos
 
