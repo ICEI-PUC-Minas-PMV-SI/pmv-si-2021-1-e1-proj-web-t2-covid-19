@@ -45,25 +45,25 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-002| Oferecer uma opção para solicitação de vacinação residencial para os públicos com restrição de mobilidade   | ALTA |
-|RF-010| Permitir ao administrador que defina os públicos convocados para vacinação | ALTA |
-|RF-015| Alterar dados cadastrais | ALTA |
-|RF-018| Qual vacina sera aplicada | ALTA |
-|RF-019| Permitir que o administrador tenha acesso aos cadastros | ALTA |
-|RF-016| Cadastramento com cartão do SUS | ALTA |
-|RF-011| Permitir ao administrador que cadastre os pontos de vacinação | ALTA |
-|RF-003| Permitir que o cadastro de dados pessoais em uma conta de usuário | ALTA |
-|RF-004| Informar se usuário pertence ao grupo de vacinação prioritário | ALTA |
-|RF-005| Apresentar ao usuário as instituições de sua cidade que disponilizam vacinação para que possa escolher  | ALTA | 
-|RF-006| Permitir que usuário selecione data e horário de agendamento disponível no sistema | ALTA |
-|RF-001| Permitir que usuário cadastre dependentes (pais, filhos) | MÉDIA | 
-|RF-007| Enviar alerta em email cadastrado pelo usuário informando do agendamento | MÉDIA |
-|RF-008| Permitir que usuário acompanhe status de seu cadastro para vacinação (1ª e 2ª doses) | MÉDIA |
-|RF-009| Permitir que o usuário informe condições de saúde que o qualifiquem como público prioritário | MÉDIA |
-|RF-012| Permitir que o administrador envie mensagens para usuários cadastrados | MÉDIA |  
-|RF-013| Permitir que o usuário edite o perfil cadastrado| BAIXO |
-|RF-014| Criar perfil de usuários cadastrados | BAIXO |
-|RF-017| Link para obtenção do cartão do SUS | BAIXO |
+|RF-001| Oferecer uma opção para solicitação de vacinação residencial para os públicos com restrição de mobilidade   | ALTA |
+|RF-002| Permitir ao administrador que defina os públicos convocados para vacinação | ALTA |
+|RF-003| Alterar dados cadastrais | ALTA |
+|RF-004| Qual vacina sera aplicada | ALTA |
+|RF-005| Permitir que o administrador tenha acesso aos cadastros | ALTA |
+|RF-006| Cadastramento com cartão do SUS | ALTA |
+|RF-007| Permitir ao administrador que cadastre os pontos de vacinação | ALTA |
+|RF-008| Permitir que o cadastro de dados pessoais em uma conta de usuário | ALTA |
+|RF-009| Informar se usuário pertence ao grupo de vacinação prioritário | ALTA |
+|RF-010| Apresentar ao usuário as instituições de sua cidade que disponilizam vacinação para que possa escolher  | ALTA | 
+|RF-011| Permitir que usuário selecione data e horário de agendamento disponível no sistema | ALTA |
+|RF-012| Permitir que usuário cadastre dependentes (pais, filhos) | MÉDIA | 
+|RF-013| Enviar alerta em email cadastrado pelo usuário informando do agendamento | MÉDIA |
+|RF-014| Permitir que usuário acompanhe status de seu cadastro para vacinação (1ª e 2ª doses) | MÉDIA |
+|RF-015| Permitir que o usuário informe condições de saúde que o qualifiquem como público prioritário | MÉDIA |
+|RF-016| Permitir que o administrador envie mensagens para usuários cadastrados | MÉDIA |  
+|RF-017| Permitir que o usuário edite o perfil cadastrado| BAIXO |
+|RF-018| Criar perfil de usuários cadastrados | BAIXO |
+|RF-019| Link para obtenção do cartão do SUS | BAIXO |
 |RF-020| Data estimada para a 2ª dose | BAIXA |
 |RF-021| Permitir que seja possível trocar a coloração do site para Azul | BAIXA |
 |RF-022| Permitir que seja possível trocar a coloração do site para Amarelo | BAIXA |
