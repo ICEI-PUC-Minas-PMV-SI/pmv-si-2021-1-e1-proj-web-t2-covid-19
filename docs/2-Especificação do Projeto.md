@@ -42,51 +42,41 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que usuário cadastre dependentes (pais, filhos) | MÉDIA | 
 |RF-002| Oferecer uma opção para solicitação de vacinação residencial para os públicos com restrição de mobilidade   | ALTA |
+|RF-010| Permitir ao administrador que defina os públicos convocados para vacinação | ALTA |
+|RF-015| Alterar dados cadastrais | ALTA |
+|RF-018| Qual vacina sera aplicada | ALTA |
+|RF-019| Permitir que o administrador tenha acesso aos cadastros | ALTA |
+|RF-016| Cadastramento com cartão do SUS | ALTA |
+|RF-011| Permitir ao administrador que cadastre os pontos de vacinação | ALTA |
 |RF-003| Permitir que o cadastro de dados pessoais em uma conta de usuário | ALTA |
 |RF-004| Informar se usuário pertence ao grupo de vacinação prioritário | ALTA |
 |RF-005| Apresentar ao usuário as instituições de sua cidade que disponilizam vacinação para que possa escolher  | ALTA | 
-|RF-006| Permitir que usuário selecione data e horário de agendamento | ALTA |
+|RF-006| Permitir que usuário selecione data e horário de agendamento disponível no sistema | ALTA |
+|RF-001| Permitir que usuário cadastre dependentes (pais, filhos) | MÉDIA | 
 |RF-007| Enviar alerta em email cadastrado pelo usuário informando do agendamento | MÉDIA |
 |RF-008| Permitir que usuário acompanhe status de seu cadastro para vacinação (1ª e 2ª doses) | MÉDIA |
-|RF-008| Permitir que o usuário informe condições de saúde que o qualifiquem como público prioritário | MÉDIA |
-|RF-009| Permitir ao administrador que defina os públicos convocados para vacinação | ALTA |
-|RF-010| Permitir ao administrador que cadastre os pontos de vacinação | ALTA |
-|RF-011| Permitir que o administrador envie mensagens para usuários cadastrados | MÉDIA |  
+|RF-009| Permitir que o usuário informe condições de saúde que o qualifiquem como público prioritário | MÉDIA |
+|RF-012| Permitir que o administrador envie mensagens para usuários cadastrados | MÉDIA |  
+|RF-013| Permitir que o usuário edite o perfil cadastrado| BAIXO |
+|RF-014| Criar perfil de usuários cadastrados | BAIXO |
+|RF-017| Link para obtenção do cartão do SUS | BAIXO |
+|RF-020| Data estimada para a 2ª dose | BAIXA |
+|RF-021| Permitir que seja possível trocar a coloração do site para Azul | BAIXA |
+|RF-022| Permitir que seja possível trocar a coloração do site para Amarelo | BAIXA |
+|RF-023| Permitir que seja possível trocar a coloração do site para Rosa | BAIXA |
+|RF-023| Permitir que seja possível trocar a coloração do site para Vermelhor | BAIXA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-002| O sistema deve garantir a segurança dos dados dos usuários
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:"<br>"
-REQUISITOS FUNCIONAIS:"<br>"
-|RF-001| Incluir, Excluir, alterar dados cadastrais."<br>"
-|RF-002| Cadastramento com o cartão do sus"<br>"
-|RF-003|link para obtenção do cartão do sus digital"<br>"
-|RF-004|informações da hora, data e  local  de vacinação"<br>"
-|RF-005|Prazo de tempo de vacinação para o dia"<br>"
-|RF-006|número de pessoas atendidas"<br>"
-|RF-007|Idade contemplada para a vacinação"<br>"
-|RF-008|data estimada para a segunda dose"<br>"
-|RF-009|qual a vacina que será injetada
--
- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-001| O sistema deve ser responsivo para rodar em navegadores | ALTA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 5s |  BAIXA | 
+|RNF-003| O sistema deve garantir a segurança dos dados dos usuários | ALTA |
+|RNF-004| Módulo de informações cadastrais offline | MÉDIA |
+|RNF-005| O sistema não pode corromper dados | ALTA |
+|RNF-006| O sistema deve salvar os registros | ALTA |
 
 ## Restrições
 
