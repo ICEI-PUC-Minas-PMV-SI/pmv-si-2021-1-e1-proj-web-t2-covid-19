@@ -35,7 +35,7 @@ Jonathan, 58 anos, desenvolverdor de software em uma grande empresa de tecnologi
 | Flaviana (Administradora) | Ter acesso aos cadastros dos postos de saúde | Para destribuição melhor da vacina |
 | Flaviana (Administradora) | Saber sobre os resultados das vacinas | Para ter um feedback dos postos de sáude |
 | Jonathan (usuária do sistema) | Agendar a vacinação usando o SUS | Facilitar o cadastro de usuário |
-| Jonathan (usuária do sistema) | Verificar os índices de imunização em seu estado | Estar atualziado sobre a a % de vacinação na sua região |
+| Jonathan (usuária do sistema) | Verificar os índices de imunização em seu estado | Estar atualizado sobre a a % de vacinação na sua região |
 
 ## Requisitos
 
@@ -48,7 +48,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais.
 |RF-001| Oferecer uma opção para solicitação de vacinação residencial para os públicos com restrição de mobilidade   | ALTA |
 |RF-002| Permitir ao administrador que defina os públicos convocados para vacinação | ALTA |
 |RF-003| Alterar dados cadastrais | ALTA |
-|RF-004| Qual vacina sera aplicada | ALTA |
+|RF-004| Informar aual vacina sera aplicada | ALTA |
 |RF-005| Permitir que o administrador tenha acesso aos cadastros | ALTA |
 |RF-006| Cadastramento com cartão do SUS | ALTA |
 |RF-007| Permitir ao administrador que cadastre os pontos de vacinação | ALTA |
@@ -63,8 +63,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais.
 |RF-016| Permitir que o administrador envie mensagens para usuários cadastrados | MÉDIA |  
 |RF-017| Permitir que o usuário edite o perfil cadastrado| BAIXO |
 |RF-018| Criar perfil de usuários cadastrados | BAIXO |
-|RF-019| Link para obtenção do cartão do SUS | BAIXO |
-|RF-020| Data estimada para a 2ª dose | BAIXA |
+|RF-019| Emitir link para obtenção do cartão do SUS | BAIXO |
+|RF-020| Informar data estimada para a 2ª dose | BAIXA |
 |RF-021| Permitir que seja possível trocar a coloração do site para Azul | BAIXA |
 |RF-022| Permitir que seja possível trocar a coloração do site para Amarelo | BAIXA |
 |RF-023| Permitir que seja possível trocar a coloração do site para Rosa | BAIXA |
@@ -75,12 +75,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais.
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em navegadores | ALTA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 5s |  BAIXA | 
 |RNF-003| O sistema deve garantir a segurança dos dados dos usuários | ALTA |
+|RNF-004| Módulo de informações cadastrais offline | MÉDIA |
 |RNF-005| O sistema não pode corromper dados | ALTA |
 |RNF-006| O sistema deve salvar os registros | ALTA |
 |RNF-007| Design do sistema intuitivo | ALTA |
-|RNF-004| Módulo de informações cadastrais offline | MÉDIA |
-|RNF-002| Deve processar requisições do usuário em no máximo 5s | BAIXA | 
 
 ## Restrições
 
@@ -93,3 +93,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |03| Não pode ser desenvolvido em app ou desktop           |
 |04| O projeto não deve abranger o território nacional     |
 |05| O servidor deve ser hospedado em cloud                |
+
