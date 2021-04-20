@@ -68,7 +68,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais.
 |RF-021| Permitir que seja possível trocar a coloração do site para Azul | BAIXA |
 |RF-022| Permitir que seja possível trocar a coloração do site para Amarelo | BAIXA |
 |RF-023| Permitir que seja possível trocar a coloração do site para Rosa | BAIXA |
-|RF-023| Permitir que seja possível trocar a coloração do site para Vermelho | BAIXA |
+|RF-024| Permitir que seja possível trocar a coloração do site para Vermelho | BAIXA |
 
 ### Requisitos não Funcionais
 
