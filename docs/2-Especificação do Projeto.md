@@ -34,6 +34,8 @@ Jonathan, 58 anos, desenvolverdor de software em uma grande empresa de tecnologi
 | Flaviana (Administradora) | Agendar vacinações dos postos de saúde | Ter organização e um controle sobre a situação |
 | Flaviana (Administradora) | Ter acesso aos cadastros dos postos de saúde | Para destribuição melhor da vacina |
 | Flaviana (Administradora) | Saber sobre os resultados das vacinas | Para ter um feedback dos postos de sáude |
+| Flaviana (Administradora) | Cadastrar dados da Unidade | Para controle de quantidade, disponibilidade e vacinas |
+| Flaviana (Administradora) | Validação de Usuário | Criar uma etapa de conferência e validação de cadastro |
 | Jonathan (usuária do sistema) | Agendar a vacinação usando o SUS | Facilitar o cadastro de usuário |
 | Jonathan (usuária do sistema) | Verificar os índices de imunização em seu estado | Estar atualizado sobre a a % de vacinação na sua região |
 
@@ -55,20 +57,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais.
 |RF-008| Permitir que o cadastro de dados pessoais em uma conta de usuário | ALTA |
 |RF-009| Informar se usuário pertence ao grupo de vacinação prioritário | ALTA |
 |RF-010| Apresentar ao usuário as instituições de sua cidade que disponilizam vacinação para que possa escolher  | ALTA | 
-|RF-011| Permitir que usuário selecione data e horário de agendamento disponível no sistema | ALTA |
-|RF-012| Permitir que usuário cadastre dependentes (pais, filhos) | MÉDIA | 
-|RF-013| Enviar alerta em email cadastrado pelo usuário informando do agendamento | MÉDIA |
-|RF-014| Permitir que usuário acompanhe status de seu cadastro para vacinação (1ª e 2ª doses) | MÉDIA |
-|RF-015| Permitir que o usuário informe condições de saúde que o qualifiquem como público prioritário | MÉDIA |
-|RF-016| Permitir que o administrador envie mensagens para usuários cadastrados | MÉDIA |  
-|RF-017| Permitir que o usuário edite o perfil cadastrado| BAIXO |
-|RF-018| Criar perfil de usuários cadastrados | BAIXO |
-|RF-019| Emitir link para obtenção do cartão do SUS | BAIXO |
-|RF-020| Informar data estimada para a 2ª dose | BAIXA |
-|RF-021| Permitir que seja possível trocar a coloração do site para Azul | BAIXA |
-|RF-022| Permitir que seja possível trocar a coloração do site para Amarelo | BAIXA |
-|RF-023| Permitir que seja possível trocar a coloração do site para Rosa | BAIXA |
-|RF-024| Permitir que seja possível trocar a coloração do site para Vermelho | BAIXA |
+|RF-011| Permitir que usuário selecione data e horário de agendamento disponível no sistema | ALTA |.
+|RF-012| Criar barreamentos de cadastro com validação do usuário para agendamento | ALTA |
+|RF-013| Permitir que usuário cadastre dependentes (pais, filhos) | MÉDIA | 
+|RF-014| Enviar alerta em email cadastrado pelo usuário informando do agendamento | MÉDIA |
+|RF-015| Permitir que usuário acompanhe status de seu cadastro para vacinação (1ª e 2ª doses) | MÉDIA |
+|RF-016| Permitir que o usuário informe condições de saúde que o qualifiquem como público prioritário | MÉDIA |
+|RF-017| Permitir que o administrador envie mensagens para usuários cadastrados | MÉDIA |  
+|RF-018| Permitir que o usuário edite o perfil cadastrado| BAIXO |
+|RF-019| Criar perfil de usuários cadastrados | BAIXO |
+|RF-020| Emitir link para obtenção do cartão do SUS | BAIXO |
+|RF-021| Informar data estimada para a 2ª dose | BAIXA |
+|RF-022| Permitir que seja possível trocar a coloração do site para Azul | BAIXA |
+|RF-023| Permitir que seja possível trocar a coloração do site para Amarelo | BAIXA |
+|RF-024| Permitir que seja possível trocar a coloração do site para Rosa | BAIXA |
+|RF-025| Permitir que seja possível trocar a coloração do site para Vermelho | BAIXA |
 
 ### Requisitos não Funcionais
 
@@ -93,4 +96,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |03| Não pode ser desenvolvido em app ou desktop           |
 |04| O projeto não deve abranger o território nacional     |
 |05| O servidor deve ser hospedado em cloud                |
-
