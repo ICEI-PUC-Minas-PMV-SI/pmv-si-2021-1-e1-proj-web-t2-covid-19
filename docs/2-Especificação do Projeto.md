@@ -75,12 +75,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais.
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em navegadores | ALTA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 5s |  BAIXA | 
 |RNF-003| O sistema deve garantir a segurança dos dados dos usuários | ALTA |
-|RNF-004| Módulo de informações cadastrais offline | MÉDIA |
 |RNF-005| O sistema não pode corromper dados | ALTA |
 |RNF-006| O sistema deve salvar os registros | ALTA |
 |RNF-007| Design do sistema intuitivo | ALTA |
+|RNF-004| Módulo de informações cadastrais offline | MÉDIA |
+|RNF-002| Deve processar requisições do usuário em no máximo 5s | BAIXA | 
 
 ## Restrições
 
@@ -93,9 +93,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |03| Não pode ser desenvolvido em app ou desktop           |
 |04| O projeto não deve abranger o território nacional     |
 |05| O servidor deve ser hospedado em cloud                |
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
