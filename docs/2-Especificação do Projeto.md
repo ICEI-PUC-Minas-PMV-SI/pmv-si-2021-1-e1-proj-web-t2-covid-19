@@ -68,22 +68,23 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais.
 |RF-019| Criar perfil de usuários cadastrados | BAIXO |
 |RF-020| Emitir link para obtenção do cartão do SUS | BAIXO |
 |RF-021| Informar data estimada para a 2ª dose | BAIXA |
-|RF-022| Permitir que seja possível trocar a coloração do site para Azul | BAIXA |
-|RF-023| Permitir que seja possível trocar a coloração do site para Amarelo | BAIXA |
-|RF-024| Permitir que seja possível trocar a coloração do site para Rosa | BAIXA |
-|RF-025| Permitir que seja possível trocar a coloração do site para Vermelho | BAIXA |
+
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em navegadores | ALTA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 5s |  BAIXA | 
 |RNF-003| O sistema deve garantir a segurança dos dados dos usuários | ALTA |
 |RNF-004| Módulo de informações cadastrais offline | MÉDIA |
 |RNF-005| O sistema não pode corromper dados | ALTA |
 |RNF-006| O sistema deve salvar os registros | ALTA |
 |RNF-007| Design do sistema intuitivo | ALTA |
+|RNF-002| Deve processar requisições do usuário em no máximo 5s |  BAIXA | 
+|RNF-022| Permitir que seja possível trocar a coloração do site para Azul | BAIXA |
+|RNF-023| Permitir que seja possível trocar a coloração do site para Amarelo | BAIXA |
+|RNF-024| Permitir que seja possível trocar a coloração do site para Rosa | BAIXA |
+|RNF-025| Permitir que seja possível trocar a coloração do site para Vermelho | BAIXA |
 
 ## Restrições
 
