@@ -50,7 +50,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais.
 |RF-001| Oferecer uma opção para solicitação de vacinação residencial para os públicos com restrição de mobilidade   | ALTA |
 |RF-002| Permitir ao administrador que defina os públicos convocados para vacinação | ALTA |
 |RF-003| Alterar dados cadastrais | ALTA |
-|RF-004| Informar aual vacina sera aplicada | ALTA |
+|RF-004| Informar qual vacina sera aplicada | ALTA |
 |RF-005| Permitir que o administrador tenha acesso aos cadastros | ALTA |
 |RF-006| Cadastramento com cartão do SUS | ALTA |
 |RF-007| Permitir ao administrador que cadastre os pontos de vacinação | ALTA |
