@@ -49,25 +49,19 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais.
 |------|-----------------------------------------|----|
 |RF-001| Oferecer uma opção para solicitação de vacinação residencial para os públicos com restrição de mobilidade   | ALTA |
 |RF-002| Permitir ao administrador que defina os públicos convocados para vacinação | ALTA |
-|RF-003| Alterar dados cadastrais | ALTA |
-|RF-004| Informar qual vacina sera aplicada | ALTA |
+|RF-003| Gestão de dados cadastrais do usuário | ALTA |
+|RF-004| Gestão de vacinas | ALTA |
 |RF-005| Permitir que o administrador tenha acesso aos cadastros | ALTA |
-|RF-006| Cadastramento com cartão do SUS | ALTA |
-|RF-007| Permitir ao administrador que cadastre os pontos de vacinação | ALTA |
-|RF-008| Permitir que o cadastro de dados pessoais em uma conta de usuário | ALTA |
-|RF-009| Informar se usuário pertence ao grupo de vacinação prioritário | ALTA |
-|RF-010| Apresentar ao usuário as instituições de sua cidade que disponilizam vacinação para que possa escolher  | ALTA | 
-|RF-011| Permitir que usuário selecione data e horário de agendamento disponível no sistema | ALTA |.
-|RF-012| Criar barreamentos de cadastro com validação do usuário para agendamento | ALTA |
-|RF-013| Permitir que usuário cadastre dependentes (pais, filhos) | MÉDIA | 
-|RF-014| Enviar alerta em email cadastrado pelo usuário informando do agendamento | MÉDIA |
-|RF-015| Permitir que usuário acompanhe status de seu cadastro para vacinação (1ª e 2ª doses) | MÉDIA |
-|RF-016| Permitir que o usuário informe condições de saúde que o qualifiquem como público prioritário | MÉDIA |
-|RF-017| Permitir que o administrador envie mensagens para usuários cadastrados | MÉDIA |  
-|RF-018| Permitir que o usuário edite o perfil cadastrado| BAIXO |
-|RF-019| Criar perfil de usuários cadastrados | BAIXO |
-|RF-020| Emitir link para obtenção do cartão do SUS | BAIXO |
-|RF-021| Informar data estimada para a 2ª dose | BAIXA |
+|RF-006| Permitir ao administrador que cadastre os pontos de vacinação | ALTA |
+|RF-007| Permitir que o cadastro de dados pessoais em uma conta de usuário | ALTA |
+|RF-008| Informar se usuário pertence ao grupo de vacinação prioritário | ALTA |
+|RF-009| Apresentar ao usuário as instituições de sua cidade que disponilizam vacinação para que possa escolher  | ALTA | 
+|RF-010| Permitir que usuário selecione data e horário de agendamento disponível no sistema | ALTA |.
+|RF-011| Criar barreamentos de cadastro com validação do usuário para agendamento | ALTA |
+|RF-012| Permitir que usuário cadastre dependentes (pais, filhos) | MÉDIA | 
+|RF-013| Enviar alerta em email cadastrado pelo usuário informando do agendamento | MÉDIA |
+|RF-014| Permitir que usuário acompanhe status de seu cadastro para vacinação (1ª e 2ª doses) | MÉDIA |
+|RF-015| Informar data estimada para a 2ª dose | BAIXA |
 
 
 ### Requisitos não Funcionais
@@ -75,16 +69,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais.
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em navegadores | ALTA | 
-|RNF-003| O sistema deve garantir a segurança dos dados dos usuários | ALTA |
-|RNF-005| O sistema não pode corromper dados | ALTA |
-|RNF-006| O sistema deve salvar os registros | ALTA |
-|RNF-007| Design do sistema intuitivo | ALTA |
+|RNF-002| O sistema deve garantir a segurança dos dados dos usuários | ALTA |
+|RNF-003| Sistema deve ter boa usabilidade  | ALTA |
 |RNF-004| Módulo de informações cadastrais offline | MÉDIA |
-|RNF-002| Deve processar requisições do usuário em no máximo 5s |  BAIXA | 
-|RNF-022| Permitir que seja possível trocar a coloração do site para Azul | BAIXA |
-|RNF-023| Permitir que seja possível trocar a coloração do site para Amarelo | BAIXA |
-|RNF-024| Permitir que seja possível trocar a coloração do site para Rosa | BAIXA |
-|RNF-025| Permitir que seja possível trocar a coloração do site para Vermelho | BAIXA |
+|RNF-005| Deve processar requisições do usuário em no máximo 5s |  BAIXA | 
+|RNF-006| Permitir que seja possível trocar a coloração do site para Azul | BAIXA |
+|RNF-007| Permitir que seja possível trocar a coloração do site para Amarelo | BAIXA |
+|RNF-008| Permitir que seja possível trocar a coloração do site para Rosa | BAIXA |
+|RNF-009| Permitir que seja possível trocar a coloração do site para Vermelho | BAIXA |
 
 ## Restrições
 
