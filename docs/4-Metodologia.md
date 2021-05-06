@@ -4,7 +4,9 @@
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
 Levando-se em conta a proposta de realizar o agendamento da vacinação contra COVID-19 e proporcionar a melhor gestão deste processo, para que os objetivos do projeto sejam atingidos, foi adotada como forma de consolidação de todas as etpapas, inserções periódicas no repositório Github. Nesta plataforma, encontram-se os dados reunidos em tópicos cuja elaboração, foi obtida por brainstorm de ideias quanto aos aspectos iniciais em definir o tema, o problema e construção das personas. 
+
 Para estruturar o material consolidado, recorreu-se à plataforma Teams, como ambiente de reuniões semanais de discussão das etpadas do projeto, por sua vez, segregadas em sprints, conforme a metodologia de gestão de projeto. A cada etapa, criou-se issues para gestão visual das tarefas do projeto, em que, sob divisão prévia em reuniões pelo Teams, foram sendo definidas atribuições a cada membro da equipe.
+
 Como complemento, usou-se também de ferramentas externas como o Photoshop e a aplicação Lucidchart para elaboração de fluxogramas, videos e telas de apresentação da aplicação.
 
 ## Controle de Versão
