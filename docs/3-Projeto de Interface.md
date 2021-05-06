@@ -6,12 +6,16 @@
 
 Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+A seguir são apresentadas as principais interfaces da plataforma. Para elaboração, recorreu-se à aplicação Lucidchart, que oferece recursos de construção de fluxogramas. A construção se deu de forma compartilhada. Ainda, tendo por base plataformas de agendamento de vacinação, buscou-se de forma simplificada e acessivel, uma aplicação leve, prática e de fácil compreensão, facilitano a usabilidade do usuário no mendo de realizar o agendamento. 
 
+A caráter complementar, a interface da aplicação foi pensada levando-se em conta os requisitos funcionais e não funcionais que permitem o delineamento do projeto, além de constituir-se de elementos acessíveis e dinâmicos. 
+
+ 
 ## User Flow
 
 ![Exemplo de UserFlow](img/userflow.jpg) 
-![Fluxo](https://user-images.githubusercontent.com/81273377/117336829-03040800-ae73-11eb-97a6-42ed9a0d114e.png)
+![Fluxo I](https://user-images.githubusercontent.com/81273377/117337122-5b3b0a00-ae73-11eb-8434-9cdc99f6e9ad.png)
+
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
