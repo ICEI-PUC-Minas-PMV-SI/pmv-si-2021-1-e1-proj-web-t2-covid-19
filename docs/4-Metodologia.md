@@ -7,7 +7,7 @@ Levando-se em conta a proposta de realizar o agendamento da vacinação contra C
 
 Para estruturar o material consolidado, recorreu-se à plataforma Teams, como ambiente de reuniões semanais de discussão das etpadas do projeto, por sua vez, segregadas em sprints, conforme a metodologia de gestão de projeto. A cada etapa, criou-se issues para gestão visual das tarefas do projeto, em que, sob divisão prévia em reuniões pelo Teams, foram sendo definidas atribuições a cada membro da equipe.
 
-Como complemento, usou-se também de ferramentas externas como o Photoshop e a aplicação Lucidchart para elaboração de fluxogramas, videos e telas de apresentação da aplicação.A seguir, estão descitos os processos e elementos principais realizados durante o processo.
+Como complemento, usou-se também de ferramentas externas como o Photoshop e a aplicação Lucidchart para elaboração de fluxogramas, videos e telas de apresentação da aplicação. A seguir, estão descitos os processos e elementos principais realizados durante o processo.
 
 ## Controle de Versão
 
