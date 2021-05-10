@@ -63,4 +63,11 @@ diagramas utilizamos essa ferramenta por melhor captar as
 necessidades da nossa solução.
 
 Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
+Github: por ser um repositório bem completo.
+Lucid chart
+Teams:boa comunicação e facilidade em interação.
+WhatsApp: por todos os integrantes do grupo possuirem.
+Marvel: fácil execução
+Kanban
+Lumen5: boa manipulação e execução
  
