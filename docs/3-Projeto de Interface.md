@@ -12,8 +12,7 @@ A caráter complementar, a interface da aplicação foi pensada levando-se em co
 
  
 ## User Flow
-
-![Exemplo de UserFlow](img/userflow.jpg) 
+ 
 ![Fluxo I](https://user-images.githubusercontent.com/81273377/117337122-5b3b0a00-ae73-11eb-8434-9cdc99f6e9ad.png)
 
 
