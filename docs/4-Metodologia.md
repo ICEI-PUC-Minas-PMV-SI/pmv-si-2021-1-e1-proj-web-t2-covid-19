@@ -46,7 +46,7 @@ Por se tratar de um projeto com fins educacionais, as atividades foram divididas
 
 ### Processo
 
-O planejamento e a gestão do projeto foi realizada segundo o sistema kanban, facilitado por meio da ferramenta GitHub. As atividades foram descritas e atribuídas aos membros da equipe. Além disso, foram criados issues específicos com as questões a serem solucionadas, também devidamente atribuídos aos responsáveis. 
+O planejamento e a gestão do projeto foram realizados segundo o sistema Kanban, facilitado por meio da ferramenta GitHub. As atividades foram descritas e atribuídas aos membros da equipe. Além disso, foram criados issues específicos com as questões a serem solucionadas, também devidamente atribuídos aos responsáveis. 
 
 ### Ferramentas
 
