@@ -12,8 +12,7 @@ Como complemento, usou-se também de ferramentas externas como o Photoshop e a a
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+[Git], sendo que o [Github] foi utilizado para hospedagem do repositório.
 
 O projeto segue a seguinte convenção para o nome de branchs:
 
@@ -43,22 +42,11 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Por se tratar de um projeto com fins educacionais, as atividades foram divididas de formar equitativa, de modo a permitir que todos os membros do grupo tenham vivência de cada fase do projeto. De modo geral, as questões foram discutidas coletivamente, resultando no conjunto de decisões e orientações a serem trabalhadas individualmente por cada membro da equipe. 
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+O planejamento e a gestão do projeto foi realizada segundo o sistema kanban, facilitado por meio da ferramenta GitHub. As atividades foram descritas e atribuídas aos membros da equipe. Além disso, foram criados issues específicos com as questões a serem solucionadas, também devidamente atribuídos aos responsáveis. 
 
 ### Ferramentas
 
