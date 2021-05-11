@@ -52,4 +52,6 @@ As ferramentas utilizadas foram:
 - Marvel: fácil execução.
 - Kanban: para gerencimaneto do projeto através de etapas de execução.
 - Lumen5: boa manipulação e execução.
+- Photoshop: para uma boa edição.
+- Wondershare Filmora: para editar os vídeos de apresentação.
  
