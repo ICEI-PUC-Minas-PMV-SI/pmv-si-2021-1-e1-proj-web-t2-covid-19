@@ -50,24 +50,18 @@ O planejamento e a gestão do projeto foram realizados segundo o sistema Kanban,
 
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
-
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de diagramação
-
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
 integração semelhante e por isso foram selecionadas. Por fim, para criar
 diagramas utilizamos essa ferramenta por melhor captar as
 necessidades da nossa solução.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
+As ferramentas utilizadas foram: 
 Github: por ser um repositório bem completo.
-Lucid chart
-Teams:boa comunicação e facilidade em interação.
+Lucid chart: para elaboração do UserFlow
+Teams: boa comunicação e facilidade em interação.
 WhatsApp: por todos os integrantes do grupo possuirem.
 Marvel: fácil execução
-Kanban
+Kanban: para gerencimaneto do projeto
 Lumen5: boa manipulação e execução
  
