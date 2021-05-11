@@ -33,23 +33,23 @@ etiquetas:
 
 ### Divisão de Papéis
 
-Por se tratar de um projeto com fins educacionais, as atividades foram divididas de formar equitativa, de modo a permitir que todos os membros do grupo tenham vivência de cada fase do projeto. De modo geral, as questões foram discutidas coletivamente, resultando no conjunto de decisões e orientações a serem trabalhadas individualmente por cada membro da equipe. 
+Por se tratar de um projeto com fins educacionais, as atividades foram divididas de formar equitativa, de modo a permitir que todos os membros do grupo tenham vivência de cada fase do projeto. Com o intuito de total imersão da equipe em opiniar, fazer e modificar, mantemos o perfil de divisão de tarefas e de revisão aberta entre todos. De modo geral, as questões foram discutidas coletivamente, resultando no conjunto de decisões e orientações a serem trabalhadas individualmente por cada membro da equipe. Mantendo sua responsabilidade com o definido no escobo nas issues, somados a revisão pelo grupo, conclusão em reunião e entrega.
 
 ### Processo
 
-O planejamento e a gestão do projeto foram realizados segundo o sistema Kanban, facilitado por meio da ferramenta GitHub. As atividades foram descritas e atribuídas aos membros da equipe. Além disso, foram criados issues específicos com as questões a serem solucionadas, também devidamente atribuídos aos responsáveis. 
+O planejamento e a gestão do projeto foram realizados segundo o sistema Kanban, facilitado por meio da ferramenta GitHub. As atividades foram descritas e atribuídas aos membros da equipe através de reuniôes no Teams e bate-papos pelo WhatsApp afim de termos a melhor exeriência. Além disso, foram criados issues específicos com as questões a serem solucionadas, também devidamente atribuídos aos responsáveis afim de manter o controle de execução do projeto. 
 
 ### Ferramentas
 
 O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
 
 As ferramentas utilizadas foram: 
-- Github: por ser um repositório bem completo.
-- Lucid chart: para elaboração do UserFlow
-- Teams: boa comunicação e facilidade em interação.
-- WhatsApp: por todos os integrantes do grupo possuirem.
-- Marvel: fácil execução
-- Kanban: para gerencimaneto do projeto
-- Lumen5: boa manipulação e execução
-- Wondershare Filmora: Para uma boa edição de apresentação
-- Photoshop: Para uma boa edição de vídeo
+- Github: por ser um repositório completo, facilitar versionamentos e alterações.
+- Visual studio: Usado por alguns integrantes como plataforma de commit entre o GitHub e suas versões.
+- Lucid chart: para elaboração do UserFlow e fluxograma do projeto.
+- Teams: boa comunicação e facilidade em interação, além de ser o portal para as reuniões e caracter profissional.
+- WhatsApp: por todos os integrantes do grupo possuirem, uma abordagem mais social e descompromissada.
+- Marvel: fácil execução.
+- Kanban: para gerencimaneto do projeto através de etapas de execução.
+- Lumen5: boa manipulação e execução.
+ 
