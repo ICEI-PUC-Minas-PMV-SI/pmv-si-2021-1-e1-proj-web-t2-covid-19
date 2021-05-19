@@ -60,7 +60,10 @@ para a Tela 2.
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+As tecnologias utilizadas para construção da aplicação e para proposta de resolução do problema apresentado, serão realizada através do Visual Studio Code, permitindo a configuração de linhas de código usando as linguagens CSS, HTML e JavaScript. 
+
+Para consolidação do código, recorreu-se também a framworks hospeadados pelo site Bootstrap e bibliotecas como node js aplicando o json-server.
+
 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
