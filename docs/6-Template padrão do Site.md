@@ -4,7 +4,7 @@
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-https://www.figma.com/file/cLlCDwOiOFu8fMWL4Y41Bp/Cadastro-Vacina%C3%A7%C3%A3o?node-id=15%3A63
+![image](https://user-images.githubusercontent.com/81273377/120403142-feb7f700-c319-11eb-8579-e88f87671b15.png)
 
 > **Links Úteis**:
 >
