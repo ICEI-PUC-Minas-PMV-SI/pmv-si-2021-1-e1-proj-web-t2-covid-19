@@ -31,6 +31,7 @@ h1 {
     font-family: Verdana, sans-serif;
     text-align: center; 
     opacity: 1;
+    margin-bottom: 30px;
 }
 
 
@@ -59,4 +60,10 @@ ul {
     text-align: justify;
     font-size: medium;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*Local-------------------------------------------------------------*/
+
+.space_local{
+    margin-top: 40px;
 }
