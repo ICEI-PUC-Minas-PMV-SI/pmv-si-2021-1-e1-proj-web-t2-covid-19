@@ -2,7 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+O template padrão do siste, feito em HTML e CSS que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia, está apontado abaixo.
 
 ![image](https://user-images.githubusercontent.com/81273377/120403142-feb7f700-c319-11eb-8579-e88f87671b15.png)
 
