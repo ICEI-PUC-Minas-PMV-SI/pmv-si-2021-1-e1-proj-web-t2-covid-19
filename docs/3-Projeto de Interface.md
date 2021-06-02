@@ -18,5 +18,10 @@ A caráter complementar, a interface da aplicação foi pensada levando-se em co
 
 ## Wireframes
 
-O wireframe do projeto, realizado com auxílio da aplicação MARVEL, se encontra no seguinte link: https://marvelapp.com/prototype/9ig3ja1
+O wireframe do projeto foi realizado com base na aplicação MARVEL.
+
+![image](https://user-images.githubusercontent.com/81273377/120543675-f5369980-c3c2-11eb-8f12-2116612fcbcf.png)
+![image](https://user-images.githubusercontent.com/81273377/120543741-08e20000-c3c3-11eb-9a0f-329c4cf1f30f.png)
+![image](https://user-images.githubusercontent.com/81273377/120543825-2020ed80-c3c3-11eb-8b7a-9e324902d363.png)
+
  
