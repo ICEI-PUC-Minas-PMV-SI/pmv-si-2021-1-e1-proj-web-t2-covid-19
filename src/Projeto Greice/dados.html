@@ -1,84 +1,66 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <link rel="stylesheet" href="css/style.css">
-
-    <title>Vacinação Covid-19 - GREICE</title>
- 
-</head>
-<body>
-    <body>
-        <form role="form">
-          <div class="position-relative m-4">
-            <div class="progress" style="height: 1px;">
-              <div class="progress-bar" role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-            </div>
-            <button type="button" class="position-absolute top-0 start-0 translate-middle btn btn-sm btn-primary rounded-pill" style="width: 2rem; height:2rem;">1</button>
-            <button type="button" class="position-absolute top-0 start-50 translate-middle btn btn-sm btn-primary rounded-pill" style="width: 2rem; height:2rem;">2</button>
-            <button type="button" class="position-absolute top-0 start-100 translate-middle btn btn-sm btn-secondary rounded-pill" style="width: 2rem; height:2rem;">3</button>
-          </div> <br>
-          <fieldset>
-            <legend>DADOS CADASTRAIS</legend>
-            <div class="row">
-              <div class="form-group col-lg-4">
-                <label for="exampleInputEmail1"> Nome</label>
-                <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Insira seu nome aqui" required>
-                <div class="valid-feedback"></div>
-                </div>
-              </div><br>
-              <div class="row">
-                <div class="form-group col-lg-6">
-                  <label for="exampleInputEmail1">Sexo</label>
-                  <select class="form-control">
-                    <option value="">Selecione o seu sexo</option>
-                    <option value="">Feminino</option>
-                    <option value="">Masculino</option>
-                    <option value="">Prefiro Não Declarar</option>
-                  </select>
-                </div> <br>
-              <div class="form-group col-lg-3">
-                <label for="exampleInputEmail1">Data de Nascimento</label>
-                <input type="date" class="form-control" id="exampleInputEmail1" placeholder="Insira a data de nascimento">
-              </div>
-              <div class="valid-feedback">         
-              </div>
-            </div><br>
-              <div class="form-group col-lg-8">
-                <label for="exampleInputEmail1">CPF</label>
-                <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Insira seu CPF aqui" required>
-                <div class="valid-feedback">
-                </div>
-              </div><br>
-              <div class="form-group col-lg-8">
-                <label for="exampleInputEmail1">Telefone</label>
-                <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Insira seu telefone aqui" required>
-                <div class="valid-feedback">
-              </div>
-            </div> <br>
-            <div class="form-group col-lg-8">
-              <label for="exampleInputEmail1">E-mail</label>
-              <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Insira seu e-mail aqui">
-            </div><div class="valid-feedback">
-            </div><br>
+  <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
       
-            <div class="box-actions">
-              <button type="button" class="btn btn-primary"> Voltar </button>
-              <button type="button" class="btn btn-primary"> Próximo</button>
-            </div>
-          </fieldset>
-        </form> <br>
-            
+      <link rel="stylesheet" href="css/style.css">
 
-        <div id="button">
+      <title>Vacinação Covid-19 - GREICE</title>
+  
+  </head>
+  <body>
+      <form role="form" class="main">
+        <h1>DADOS CADASTRAIS</h1>
+          <div class="row">
+            <div class="form-group col-lg-4">
+              <label for="exampleInputEmail1"> Nome</label>
+              <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Insira seu nome aqui" required>
+              <div class="valid-feedback"></div>
+              </div>
+            </div><br>
+            <div class="row">
+              <div class="form-group col-lg-6">
+                <label for="exampleInputEmail1">Sexo</label>
+                <select class="form-control">
+                  <option value="">Selecione o seu sexo</option>
+                  <option value="">Feminino</option>
+                  <option value="">Masculino</option>
+                  <option value="">Prefiro Não Declarar</option>
+                </select>
+              </div> <br>
+            <div class="form-group col-lg-3">
+              <label for="exampleInputEmail1">Data de Nascimento</label>
+              <input type="date" class="form-control" id="exampleInputEmail1" placeholder="Insira a data de nascimento">
+            </div>
+            <div class="valid-feedback">         
+            </div>
+          </div><br>
+            <div class="form-group col-lg-8">
+              <label for="exampleInputEmail1">CPF</label>
+              <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Insira seu CPF aqui" required>
+              <div class="valid-feedback">
+              </div>
+            </div><br>
+            <div class="form-group col-lg-8">
+              <label for="exampleInputEmail1">Telefone</label>
+              <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Insira seu telefone aqui" required>
+              <div class="valid-feedback">
+            </div>
+          </div> <br>
+          <div class="form-group col-lg-8">
+            <label for="exampleInputEmail1">E-mail</label>
+            <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Insira seu e-mail aqui">
+          </div><div class="valid-feedback">
+          </div><br>
+          <div id="button">
             <button id="novo_agendamento" type="button" class="btn btn-primary"><b>Novo Agendamento</b></button> 
             <button id="consulta_agendamento" type="button" class="btn btn-primary"><b>Consulta</b></button>    
         </div>
-    </div>     
+      </form> <br>
 
-    <script type="text/javascript" src="/script.js"></script>
-</body>
+  </body>
+  <script type="text/javascript" src="/script.js"></script>
+
 </html>

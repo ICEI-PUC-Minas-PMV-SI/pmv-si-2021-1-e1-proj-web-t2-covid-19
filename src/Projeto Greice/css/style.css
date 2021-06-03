@@ -71,19 +71,8 @@ ul {
 
 /*Vacinacao-------------------------------------------------------------*/
 
-/*Dados-------------------------------------------------------------*/
+
+
 /*Dados-------------------------------------------------------*/
 
-form { margin: 0 auto;
-    width: 400px;
-    padding: 1em;
-    border: 1px solid #CCC;
-    border-radius: 1em;
-    text-align: center;
-    font-family:'Times New Roman';
-}
 
-fieldset, legend {
-    text-align: center; 
-    background-color:rgb(250, 250, 255, 0.4);
-}
