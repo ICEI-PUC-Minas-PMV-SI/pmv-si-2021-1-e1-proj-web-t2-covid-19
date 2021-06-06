@@ -2,7 +2,7 @@
 body {
     background-attachment: fixed;
     background-image: url("image_fundo.png");
-    background-color: rgb(204, 204, 204, 0.3);
+    background-color: rgb(204, 204, 204, 0.1);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -15,7 +15,7 @@ body {
 }        
 
 .main {
-    background-color: rgba(70, 121, 168, 0.4);
+    background-color: rgba(70, 121, 168, 0.5);
     height: 60vh;
     width: 60vw;
     display: flex;
@@ -51,7 +51,7 @@ button {
 }
 
 p {
-    text-align: justify;
+    text-align: center;
     font-size: medium;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
