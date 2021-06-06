@@ -15,7 +15,7 @@ body {
 }        
 
 .main {
-    background-color: rgba(70, 121, 168, 0.4);
+    background-color: rgba(70, 121, 168, 0.5);
     height: 60vh;
     width: 60vw;
     display: flex;
