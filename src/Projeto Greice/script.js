@@ -6,16 +6,14 @@ cadastro1 = {
     categoria: ''
     servico: ''
     local: ''
-    dados_pessoais: [
-        {
-            nome: ''
-            sexo: ''
-            nascimento: ''
-            cpf: ''
-            telefone: ''    
-            email: ''
+    nome: ''
+    sexo: ''
+    nascimento: ''
+    cpf: ''
+    telefone: ''    
+    email: ''
         }       
-    ]
+
     
 function getCadastro() {
     var consultaCadastro = new XMLHttpRequest();
@@ -55,7 +53,7 @@ xhr.send(cadastro);
 
 
 
-function exibirCadastro(){
+function exibirCadastro() {
     var textoHTML = '';
     for (let x = 0; x < cadastroVacina.length; x++) {
         textoHTML += 'Categoria: ${cadastroVacina[0].categoria} \n Serviço: ${cadastroVacina[0].servico} \n Local de Vacinação: ${cadastroVacina[0].local} \nNome: ${cadastroVacina[0].nome} \n Sexo: ${cadastroVacina[0].sexo} \n Nascimento: ${cadastroVacina[0].nascimento} \n CPF: ${cadastroVacina[0].cpf} \n Telefone: ${cadastroVacina[0].telefone} \n E-mail: ${cadastroVacina[0].email} \n' ;
