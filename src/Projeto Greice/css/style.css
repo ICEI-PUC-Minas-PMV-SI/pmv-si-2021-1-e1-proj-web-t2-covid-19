@@ -28,7 +28,7 @@ body {
 
 h1 { 
     font-size: medium;
-    font-family: Verdana, sans-serif;
+    font-family: sans-serif;
     text-align: center; 
     opacity: 1;
     margin-bottom: 30px;
@@ -52,13 +52,17 @@ button {
 p {
     text-align: center;
     font-size: medium;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: sans-serif;
 }
 
 ul {
     text-align: justify;
     font-size: medium;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: sans-serif;
+}
+
+div {
+    font-family: sans-serif;
 }
 
 /*Local-------------------------------------------------------------*/
