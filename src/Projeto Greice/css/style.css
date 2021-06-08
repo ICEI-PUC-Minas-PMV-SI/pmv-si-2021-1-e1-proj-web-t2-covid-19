@@ -63,6 +63,8 @@ ul {
 
 div {
     font-family: sans-serif;
+    vertical-align: middle;
+    text-align: left;
 }
 
 /*Local-------------------------------------------------------------*/
