@@ -14,16 +14,41 @@
     </head>
     <body>
         <div class="main">
-            <h1>Selecione o Local de Vacinação:</h1>
+            <h1>Selecione o Local, Data e Horário de Vacinação:</h1>
 
-            <select  autofocus>
-                <option selected disabled value="">Selecione</option>
-                <option value="">Escola Municipal Professor Firmino (Zona Leste)</option>
-                <option value="">Universidade Central (Zona Centro-sul)</option>
-                <option value="">UPA Santa Cecília (Zona Norte)</option>
-                <option value="">Centro de Convenções (Centro)</option>
-                <option value="">UPA Vila Maria (Zona Oeste)</option>
-            </select>
+            <div class="categoriaStyle">
+                <label>Escolha o Local</label>
+                <select  autofocus>
+                    <option selected disabled value="">Selecione</option>
+                    <option value="">Escola Municipal Professor Firmino (Zona Leste)</option>
+                    <option value="">Universidade Central (Zona Centro-sul)</option>
+                    <option value="">UPA Santa Cecília (Zona Norte)</option>
+                    <option value="">Centro de Convenções (Centro)</option>
+                    <option value="">UPA Vila Maria (Zona Oeste)</option>
+                </select>
+            </div>  
+
+            <div class="categoriaStyle">
+                <label>Escolha a Data</label>
+                <select id=categoria>
+                    <option selected disabled>Datas</option>
+                    <option>07/07/2021</option>
+                    <option>08/07/2021</option>
+                    <option>09/07/2021</option>
+                </select>
+            </div>
+            <div class="servicoStyle">
+                <label>Escolha o Horário</label>
+                <select id="servico">
+                    <option selected disabled>Horários</option>
+                    <option>15:20</option>
+                    <option>15:25</option>
+                    <option>15:30</option>
+                    <option>15:35</option>
+                    <option>15:40</option>
+                </select>
+            </div>  
+
             <div class="space_local">
                 <div id="button">
                     <a href="2vacinação.html">
