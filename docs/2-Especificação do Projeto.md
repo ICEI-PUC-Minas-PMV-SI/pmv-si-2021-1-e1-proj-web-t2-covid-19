@@ -25,19 +25,19 @@ Jonathan, 58 anos, desenvolverdor de software em uma grande empresa de tecnologi
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-| Antônio (usuário do sistema) | Agendar vacinação | Usuário precisar saber com antecedência quando irar se vacinar |
+| Antônio (usuário do sistema) | Agendar vacinação | Usuário precisar saber com antecedência quando irá se vacinar |
 | Antônio (usuário do sistema) | Saber qual instituição de saúde deve ir | Na hora de agendar deve-se saber o local disponível para se vacinar  |
 | Antônio (usuário do sistema) | Notificação quando deve ir se vacinar  | Receber um lembrete do agendamento |
 | Roberta (usuário do sistema) | Cadastrar seus pais, seus filhos e a si mesma | Permitir cadastro de dependentes |
 | Roberta (usuário do sistema) | Solicitar vacinação residencial para o pai | Permitir cadastro de restriçao de mobilidade |
 | Luiza (usuária do sistema) | Ser informada do dia e a hora para o comparecimento à unidade de saúde para receber o imunizante | Para evitar aglomerações.| 
 | Flaviana (Administradora) | Agendar vacinações dos postos de saúde | Ter organização e um controle sobre a situação |
-| Flaviana (Administradora) | Ter acesso aos cadastros dos postos de saúde | Para destribuição melhor da vacina |
+| Flaviana (Administradora) | Ter acesso aos cadastros dos postos de saúde | Para distribuição melhor da vacina |
 | Flaviana (Administradora) | Saber sobre os resultados das vacinas | Para ter um feedback dos postos de sáude |
 | Flaviana (Administradora) | Cadastrar dados da Unidade | Para controle de quantidade, disponibilidade e vacinas |
 | Flaviana (Administradora) | Validação de Usuário | Criar uma etapa de conferência e validação de cadastro |
 | Jonathan (usuária do sistema) | Agendar a vacinação usando o SUS | Facilitar o cadastro de usuário |
-| Jonathan (usuária do sistema) | Verificar os índices de imunização em seu estado | Estar atualizado sobre a a % de vacinação na sua região |
+| Jonathan (usuária do sistema) | Verificar os índices de imunização em seu estado | Estar atualizado sobre o percentual de vacinação na sua região |
 
 ## Requisitos
 
