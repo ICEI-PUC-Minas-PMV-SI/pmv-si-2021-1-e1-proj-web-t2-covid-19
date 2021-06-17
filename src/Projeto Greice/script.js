@@ -1,16 +1,30 @@
 
-if (document.getElementById(proximo1).clicked == true){
 
-    localStorage.setItem("servico", document.getElementById("servico"));
-    localStorage.setItem("categoria", document.getElementById("categoria"));
+/*  Página Serviço e Categoria */
 
-}
+document.getElementById("proximo1").addEventListener("click", function(){ 
+
+    var servico = localStorage.setItem("servico", document.getElementById("servico"));
+    var categoria = localStorage.setItem("categoria", document.getElementById("categoria"));
+
+}); 
 
 
-document.getElementById("test").addEventListener('click',function ()
+
+document.getElementById("cadastroFinal").addEventListener("onload", function ()
 {
-  
+    document.getElementById("cadastroFinal").innerHTML = {
+
+
+        servico 
+        categoria
+
+
+    }
    }  ); 
 
+   
 
-document.getElementById(cadastroFinal).innerHTML =  
+
+
+
