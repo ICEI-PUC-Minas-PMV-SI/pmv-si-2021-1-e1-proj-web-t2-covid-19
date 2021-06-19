@@ -16,47 +16,55 @@
         <div class="main">
             <h1>Selecione o Local, Data e Horário de Vacinação:</h1>
 
-            <div class="categoriaStyle">
-                <label>Escolha o Local</label>
-                <select autofocus id="local">
-                    <option selected disabled value="">Selecione</option>
-                    <option value="">Escola Municipal Professor Firmino (Zona Leste)</option>
-                    <option value="">Universidade Central (Zona Centro-sul)</option>
-                    <option value="">UPA Santa Cecília (Zona Norte)</option>
-                    <option value="">Centro de Convenções (Centro)</option>
-                    <option value="">UPA Vila Maria (Zona Oeste)</option>
-                </select>
-            </div>  
+            <div containercenter>
+                <div class="categoriaStyle">
+                    <label>Escolha o Local </label>
+                    <select autofocus id="local">
+                        <option selected disabled value="">Selecione</option>
+                        <option value="">Escola Municipal Professor Firmino (Zona Leste)</option>
+                        <option value="">Universidade Central (Zona Centro-sul)</option>
+                        <option value="">UPA Santa Cecília (Zona Norte)</option>
+                        <option value="">Centro de Convenções (Centro)</option>
+                        <option value="">UPA Vila Maria (Zona Oeste)</option>
+                    </select>
+                </div>  
 
-            <div class="categoriaStyle">
-                <label>Escolha a Data</label>
-                <select id="data">
-                    <option selected disabled>Datas</option>
-                    <option>07/07/2021</option>
-                    <option>08/07/2021</option>
-                    <option>09/07/2021</option>
-                </select>
-            </div>
-            <div class="servicoStyle">
-                <label>Escolha o Horário</label>
-                <select id="horario">
-                    <option selected disabled>Horários</option>
-                    <option>15:20</option>
-                    <option>15:25</option>
-                    <option>15:30</option>
-                    <option>15:35</option>
-                    <option>15:40</option>
-                </select>
-            </div>  
-
-            <div class="space_local">
-                <div id="button">
-                    <a href="2vacinação.html"><button class="alert" id="voltar" type="button" class="btn btn-primary"><b><i class="fa fa-chevron-circle-left" aria-hidden="true"></i> Anterior</b></button></a> 
-                    <a href="4dados.html"><button class="alert" id="proximo" type="button" class="btn btn-primary"><b>Próximo <i class="fa fa-chevron-circle-right" aria-hidden="true"></i></b></button></a>    
+                <div class="categoriaStyle">
+                    <label>Escolha a Data</label>
+                    <select id="data">
+                        <option selected disabled>Datas</option>
+                        <option>07/07/2021</option>
+                        <option>08/07/2021</option>
+                        <option>09/07/2021</option>
+                    </select>
+                </div>
+                <div class="servicoStyle">
+                    <label>Escolha o Horário</label>
+                    <select id="horario">
+                        <option selected disabled>Horários</option>
+                        <option>15:20</option>
+                        <option>15:25</option>
+                        <option>15:30</option>
+                        <option>15:35</option>
+                        <option>15:40</option>
+                    </select>
                 </div>  
             </div>
-            
-        </div>     
+        
+
+            <div class="container">
+                <a href="2vacinação.html"><button class="alert" id="voltar"  class="btn btn-primary">
+                    <b><i class="fa fa-chevron-circle-left" aria-hidden="true"></i> Anterior</b>
+                </button></a> 
+                
+                <a href="4dados.html"><button class="alert" id="proximo"  class="btn btn-primary">
+                    <b>Próximo <i class="fa fa-chevron-circle-right" aria-hidden="true"></i></b>
+                </button></a>    
+            </div>
+
+        </div> 
+        
+        
 
         <script type="text/javascript" src="script.js"></script>
     </body>

@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
+html {
+    box-sizing: border-box;
+  }
+
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
 body {
     background-attachment: fixed;
     background-image: url("image_fundo.png");
@@ -34,20 +42,8 @@ h1 {
     margin-bottom: 30px;
 }
 
-button {
-    border-radius: 10px;
-    color: white;
-    background-color: #0095f6;
-    width: 160px;
-    height: 60px;
-    margin: 0 30px; 
-    vertical-align: top; 
-    
-}
 
-#button {
-    display: inline-block;
-}
+
 
 p {
     text-align: center;
@@ -73,16 +69,36 @@ div {
     margin-top: 40px;
 }
 
-.alert:hover{
-    font-size: 12px;
-    opacity: 0.6;
+.container .btn1 {
+    display: inline-block;
+}
+
+.alert{
+    background-color:#0072b1;
+    border: none;
+    color: white;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
     cursor: pointer;
-    transition: 0.3s;
+    transition-duration: 0.4s;
+    border-radius: 12px;
+    margin-top: 50px;
+}
+.alert:hover{
+    cursor: pointer;
+    opacity: 50%;
+    color: white;
+    
 }
 
 .alert:active{
     background:black;
 }
+
 
 /*Vacinacao-------------------------------------------------------------*/
 .categoriaStyle{
