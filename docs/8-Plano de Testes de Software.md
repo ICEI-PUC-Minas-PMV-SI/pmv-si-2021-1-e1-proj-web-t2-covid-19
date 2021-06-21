@@ -10,6 +10,11 @@
 | Novo Agendamento | CT 2  | Validar combo box de Serviço | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Selecionar o público em 'Serviço' | O botão combo box possua as opções disponíveis |  |
 | Novo Agendamento | CT 3  | Validar botão 'Anterior' | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Anterior'| O usuário deve ser direcionado à página home |  |
 | Novo Agendamento | CT 4  | Validar botão 'Próximo' | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo'| O usuário deve ser direcionado à página 'Selecione Local, Data e Horário de Vacinação' |  |
+| Selecione Local, Data e Horário de Vacinação | CT 1  | Validar combo box de Local | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo'<br> 4. Selecionar Local em 'Local'| O botão combo box possua as opções disponíveis |  |
+| Selecione Local, Data e Horário de Vacinação | CT 2  | Validar combo box de Data | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo'<br> 4. Selecionar data em 'Datas'| O botão combo box possua as opções disponíveis |  |
+| Selecione Local, Data e Horário de Vacinação | CT 3  | Validar combo box de Horário | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo' <br> 4. Selecionar o horário em 'Horários'| O botão combo box possua as opções disponíveis |  |
+| Selecione Local, Data e Horário de Vacinação | CT 4  | Validar botão 'Anterior' | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Anterior' <br> 4. Clicar em 'Anterior'| O usuário deve ser direcionado à página 'Novo Agendamento' |  |
+| Selecione Local, Data e Horário de Vacinação | CT 5  | Validar botão 'Próximo' | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo' <br> 4. Clicar em 'Próximo'| O usuário deve ser direcionado à página 'Dados Cadastrais' |  |
 
 Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
 
