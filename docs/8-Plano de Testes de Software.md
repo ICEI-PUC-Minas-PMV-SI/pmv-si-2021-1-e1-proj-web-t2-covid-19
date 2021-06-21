@@ -4,7 +4,8 @@
 
 |FEATURE | TESTE ID | DESCRIÇÃO | PRÉ-CONDIÇÃO | PASSOS | RESULTADO ESPERADO | NOTAS |
 |--------|----------|-----------|--------------|--------|--------------------|-------|
-| Home   |  Caso 1  | Validar botão 'Novo Agendamento' | Ter acesso ao link http://127.0.0.1:5500/src/Projeto%20Greice/1index.html |  1. Abrir página home <br> 2. Clicar em 'Novo Agendamento' | Ao clicar no botão, o usuário deve ser direcionado para a página de Serviços |
+| Home   |  Caso 1  | Validar botão 'Novo Agendamento' | Ter acesso ao link http://127.0.0.1:5500/src/Projeto%20Greice/1index.html |  1. Abrir página home <br> 2. Clicar em 'Novo Agendamento' | Ao clicar no botão, o usuário deve ser direcionado para a página de Serviços |  |
+| Home  | Caso 2 | Validar botão 'Consulta' | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Consultar' | Ao clicar no botão o usuário deve ser direcionado para a página de Consulta |   |
 
 Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
 
