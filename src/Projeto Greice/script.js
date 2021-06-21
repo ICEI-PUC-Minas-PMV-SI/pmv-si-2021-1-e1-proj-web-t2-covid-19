@@ -1,4 +1,3 @@
-
 /*  Página Serviço e Categoria */
 
 document.getElementById("proximo1").addEventListener("click", function(){ 
