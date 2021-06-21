@@ -2,6 +2,20 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
+|FEATURE | TESTE ID | DESCRIÇÃO | PRÉ-CONDIÇÃO | PASSOS | RESULTADO ESPERADO | NOTAS |
+|--------|----------|-----------|--------------|--------|--------------------|-------|
+| Home   |  CT 1  | Validar botão 'Novo Agendamento' | Ter acesso à <a href="http://127.0.0.1:5500/src/Projeto%20Greice/1index.html"> GREICE </a> |  1. Abrir página home <br> 2. Clicar em 'Novo Agendamento' | Ao clicar no botão, o usuário deve ser direcionado para a página de Serviços |  |
+| Home  | CT 2 | Validar botão 'Consulta' | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Consultar' | Ao clicar no botão o usuário deve ser direcionado para a página de Consulta |   |
+| Novo Agendamento | CT 1  | Validar combo box de Categoria | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Selecionar o público em 'Categoria' | O botão combo box possua as opções disponíveis |  |
+| Novo Agendamento | CT 2  | Validar combo box de Serviço | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Selecionar o público em 'Serviço' | O botão combo box possua as opções disponíveis |  |
+| Novo Agendamento | CT 3  | Validar botão 'Anterior' | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Anterior'| O usuário deve ser direcionado à página home |  |
+| Novo Agendamento | CT 4  | Validar botão 'Próximo' | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo'| O usuário deve ser direcionado à página 'Selecione Local, Data e Horário de Vacinação' |  |
+| Selecione Local, Data e Horário de Vacinação | CT 1  | Validar combo box de Local | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo'<br> 4. Selecionar Local em 'Local'| O botão combo box possua as opções disponíveis |  |
+| Selecione Local, Data e Horário de Vacinação | CT 2  | Validar combo box de Data | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo'<br> 4. Selecionar data em 'Datas'| O botão combo box possua as opções disponíveis |  |
+| Selecione Local, Data e Horário de Vacinação | CT 3  | Validar combo box de Horário | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo' <br> 4. Selecionar o horário em 'Horários'| O botão combo box possua as opções disponíveis |  |
+| Selecione Local, Data e Horário de Vacinação | CT 4  | Validar botão 'Anterior' | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Anterior' <br> 4. Clicar em 'Anterior'| O usuário deve ser direcionado à página 'Novo Agendamento' |  |
+| Selecione Local, Data e Horário de Vacinação | CT 5  | Validar botão 'Próximo' | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo' <br> 4. Clicar em 'Próximo'| O usuário deve ser direcionado à página 'Dados Cadastrais' |  |
+
 Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
 
 Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.

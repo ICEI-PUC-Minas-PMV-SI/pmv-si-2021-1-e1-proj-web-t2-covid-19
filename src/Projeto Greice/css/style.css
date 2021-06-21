@@ -23,7 +23,7 @@ body {
 }        
 
 .main {
-    background-color: rgba(166, 206, 243, 0.9);
+    background-color: rgba(188, 211, 233, 0.9);
     height: 60vh;
     width: 60vw;
     display: flex;
@@ -35,11 +35,17 @@ body {
 }
 
 h1 { 
-    font-size: large;
+    
     font-family: 'Roboto';
     text-align: center; 
     opacity: 1;
     margin-bottom: 30px;
+}
+
+.fiqueligado{
+    color: red;
+    text-align: left;
+    font-weight: bold;
 }
 
 
@@ -47,13 +53,14 @@ h1 {
 
 p {
     text-align: center;
-    font-size: medium;
+    font-size: large;
     font-family: 'Roboto';
+    font-weight: bold;
 }
 
 ul {
     text-align: justify;
-    font-size: medium;
+    font-size: large;
     font-family: 'Roboto';
 }
 
