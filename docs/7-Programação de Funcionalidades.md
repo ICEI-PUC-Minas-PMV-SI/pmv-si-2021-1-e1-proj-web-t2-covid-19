@@ -1,7 +1,13 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+Para a implementação das funcionalidades listam-se a seguir a descrição de procedimentos arelados aos seus objetivos:
 
+1. **PÁGINA INICIAL**: compreende na introdução ao usuário, do propósito da aplicação, contendo o campo para iniciar o 'novo agendamento' e 'consulta' para avaliar o status do seu agendemento realizado anteriormente.
+2. **PÁGINA 2**: início do agendamento com a possibilidade do usuário inserir o tipo de serviço a ser escolhido, como também o público a que pertence para vacinação. O usuário seleciona ambas as informações que adequem à sua realidade e segue com o agendamento ao cliclar em 'próximo', ou volta à página inicial clicando em 'anteior'.
+3. **PÁGINA 3**: seuqência do agendamento para que o usuário possa selecionar o local de vacinação disponível, bem como a data e horários adequados; há possibilidade de clicar em 'próximo' e 'anterior';
+4. **PÁGINA 4**: inserção dos dados pessoais do usuário para cadastro do agendamento de vacinas;
+5. **PÁGINA 5**: página de confirmação do agendamento.
+ 
 Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
