@@ -3,11 +3,11 @@
 
 document.getElementById("proximo1").addEventListener("click", function(){ 
 
-    var servico = document.getElementById("servico");
-    localStorage.setItem("servico", servico.value);
+    var varServico = document.getElementById("servico").value;
+    localStorage.setItem("dadoServico", varServico.value);
 
-    var categoria = document.getElementById("categoria");
-    localStorage.setItem("categoria", categoria.value));
+    var varCategoria = document.getElementById("categoria").value;
+    localStorage.setItem("dadoCategoria", varCategoria.value);
 
 }); 
 
