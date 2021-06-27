@@ -3,10 +3,10 @@
 document.getElementById("proximo1").addEventListener("click", function(){ 
 
   var varServico = document.getElementById('servico').value;
-    localStorage.setItem("dadoServico", varServico);
+    localStorage.setItem("varServico", varServico);
 
   var varCategoria = document.getElementById('categoria').value;
-    localStorage.setItem("dadoCategoria", varCategoria);
+    localStorage.setItem("varCategoria", varCategoria);
 
 }); 
 
@@ -15,13 +15,13 @@ document.getElementById("proximo1").addEventListener("click", function(){
 document.getElementById("proximo2").addEventListener("click", function(){ 
 
    var varLocal = document.getElementById("local").value;
-   localStorage.setItem("dadoLocal", varLocal);
+   localStorage.setItem("varLocal", varLocal);
     
    var varData = document.getElementById("data").value;
-   localStorage.setItem("dadoData", varData);    
+   localStorage.setItem("varData", varData);    
 
    var varHorario = document.getElementById("horario").value;
-   localStorage.setItem("dadoHorario", varHorario);    
+   localStorage.setItem("varHorario", varHorario);    
  }); 
 
 /*  Página Nome, Sexo, Nascimento, CPF, Telefone, E-mail */
@@ -29,22 +29,22 @@ document.getElementById("proximo2").addEventListener("click", function(){
 document.getElementById("proximo3").addEventListener("click", function(){ 
 
     var varNome = document.getElementById("nome").value;
-    localStorage.setItem("dadoNome", varNome);
+    localStorage.setItem("varNome", varNome);
 
     var varSexo = document.getElementById("sexo").value;
-    localStorage.setItem("dadoSexo", varSexo);
+    localStorage.setItem("varSexo", varSexo);
 
     var varNascimento = document.getElementById("nascimento").value;
-    localStorage.setItem("dadoNascimento", varNascimento);
+    localStorage.setItem("varNascimento", varNascimento);
 
     var varCPF = document.getElementById("cpf").value;
-    localStorage.setItem("dadoCPF", varCPF);
+    localStorage.setItem("varCPF", varCPF);
 
     var varTelefone = document.getElementById("telefone").value;
-    localStorage.setItem("dadoTelefone", varTelefone);
+    localStorage.setItem("varTelefone", varTelefone);
 
     var varEmail = document.getElementById("email").value;
-    localStorage.setItem("dadoEmail", varEmail);
+    localStorage.setItem("varEmail", varEmail);
 
 }); 
 
@@ -55,17 +55,17 @@ document.getElementById("cadastroFinal").addEventListener("onload", function (){
 
   document.getElementById("cadastroFinal").innerHTML = {
         
-    localStorage.getItem("dadoServico");
-    localStorage.getItem("dadoCategoria");
-    localStorage.getItem("dadoLocal");
-    localStorage.getItem("dadoData");
-    localStorage.getItem("dadoHorario");
-    localStorage.getItem("dadoNome");
-    localStorage.getItem("dadoSexo");
-    localStorage.getItem("dadoNascimento");
-    localStorage.getItem("dadoCPF");
-    localStorage.getItem("dadoTelefone");
-    localStorage.getItem("dadoEmail");
+    localStorage.getItem("varServico");
+    localStorage.getItem("varCategoria");
+    localStorage.getItem("varLocal");
+    localStorage.getItem("varData");
+    localStorage.getItem("varHorario");
+    localStorage.getItem("varNome");
+    localStorage.getItem("varSexo");
+    localStorage.getItem("varNascimento");
+    localStorage.getItem("varCPF");
+    localStorage.getItem("varTelefone");
+    localStorage.getItem("varEmail");
 
     }
 }); 
