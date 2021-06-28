@@ -1,50 +1,79 @@
 /*  Página Serviço e Categoria */
 
-document.getElementById("proximo1").addEventListener("click", function(){ 
+document.getElementById("btn-prox-2").addEventListener("click", function(){ 
 
-  var varServico = document.getElementById('servico').value;
+    var varCategoria = document.getElementById("categoria").value;
+
+    localStorage.setItem("varCategoria", varCategoria);
+
+
+    var varServico = document.getElementById("servico").value;
+
     localStorage.setItem("varServico", varServico);
 
-  var varCategoria = document.getElementById('categoria').value;
-    localStorage.setItem("varCategoria", varCategoria);
+  
+    window.location.href = "3local.html";
 
 }); 
 
 /*  Página Local, Data e Horário */
 
-document.getElementById("proximo2").addEventListener("click", function(){ 
+document.getElementById("btn-prox-3").addEventListener("click", function(){ 
 
-   var varLocal = document.getElementById("local").value;
-   localStorage.setItem("varLocal", varLocal);
-    
-   var varData = document.getElementById("data").value;
-   localStorage.setItem("varData", varData);    
+    var varLocal = document.getElementById("local").value;
 
-   var varHorario = document.getElementById("horario").value;
-   localStorage.setItem("varHorario", varHorario);    
- }); 
+    localStorage.setItem("varLocal", varLocal);
+
+
+    var varData = document.getElementById("data").value;
+
+    localStorage.setItem("varData", varData);
+
+
+    var varHorario = document.getElementById("horario").value;
+
+    localStorage.setItem("varHorario", varHorario);
+
+    window.location.href = "4dados.html";
+
+}); 
+
 
 /*  Página Nome, Sexo, Nascimento, CPF, Telefone, E-mail */
 
-document.getElementById("proximo3").addEventListener("click", function(){ 
+document.getElementById("btn-prox-4").addEventListener("click", function(){ 
 
     var varNome = document.getElementById("nome").value;
+
     localStorage.setItem("varNome", varNome);
 
+
     var varSexo = document.getElementById("sexo").value;
+
     localStorage.setItem("varSexo", varSexo);
 
+
     var varNascimento = document.getElementById("nascimento").value;
+
     localStorage.setItem("varNascimento", varNascimento);
 
+
     var varCPF = document.getElementById("cpf").value;
+
     localStorage.setItem("varCPF", varCPF);
 
+
     var varTelefone = document.getElementById("telefone").value;
+
     localStorage.setItem("varTelefone", varTelefone);
+    
 
     var varEmail = document.getElementById("email").value;
+
     localStorage.setItem("varEmail", varEmail);
+
+
+    window.location.href = "final.html";
 
 }); 
 
@@ -53,19 +82,20 @@ document.getElementById("proximo3").addEventListener("click", function(){
 
 document.getElementById("cadastroFinal").addEventListener("onload", function (){
 
-  document.getElementById("cadastroFinal").innerHTML = {
-        
-    localStorage.getItem("varServico");
-    localStorage.getItem("varCategoria");
-    localStorage.getItem("varLocal");
-    localStorage.getItem("varData");
-    localStorage.getItem("varHorario");
-    localStorage.getItem("varNome");
-    localStorage.getItem("varSexo");
-    localStorage.getItem("varNascimento");
-    localStorage.getItem("varCPF");
-    localStorage.getItem("varTelefone");
-    localStorage.getItem("varEmail");
+    let finalServico = localStorage.getItem("varServico");
+    let finalCategoria = localStorage.getItem("varCategoria");
+    let finalLocal = localStorage.getItem("varLocal");
+    let finalData = localStorage.getItem("varData");
+    let finalHorario = localStorage.getItem("varHorario");
+    let finalNome = localStorage.getItem("varNome");
+    let finalSexo = localStorage.getItem("varSexo");
+    let finalNascimento = localStorage.getItem("varNascimento");
+    let finalCPF = localStorage.getItem("varCPF");
+    let finalTelefone = localStorage.getItem("varTelefone");
+    let finalEmail = localStorage.getItem("varEmail");
 
-    }
+    let resumoCadastro = 'Serviço: ${finalServico} \n Categoria: ${finalCategoria} \n Local: ${finalLocal} \n Data: ${finalData} \n  Horário: ${finalHorario} \n  Nome: ${finalNome} \n Sexo: ${finalSexo} \n Nascimento: ${finalNascimento} \n CPF: ${finalCPF} \n Telefone: ${finalTelefone} \n Email: ${finalEmail}';
+    
+    let finalDIV = document.getElementById("cadastroFinal").innerHTML 
+    finalDIV.innerHTML = resumoCadastro
 }); 
