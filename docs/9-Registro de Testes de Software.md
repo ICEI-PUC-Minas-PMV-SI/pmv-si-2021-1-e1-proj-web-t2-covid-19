@@ -1,12 +1,28 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
+# Plano de Testes de Software
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
+<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+
+|FEATURE | TESTE ID | DESCRIÇÃO | PRÉ-CONDIÇÃO | PASSOS | RESULTADO ESPERADO | NOTAS |
+|--------|----------|-----------|--------------|--------|--------------------|-------|
+| Home   |  CT 1  | Validar botão 'Novo Agendamento' | Ter acesso à <a href="http://127.0.0.1:5500/src/Projeto%20Greice/1index.html"> GREICE </a> |  1. Abrir página home <br> 2. Clicar em 'Novo Agendamento' | Ao clicar no botão, o usuário deve ser direcionado para a página de Serviços | Teste **OK** em 29/06 |
+| Home  | CT 2 | Validar botão 'Consulta' | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Consultar' | Ao clicar no botão o usuário deve ser direcionado para a página de Consulta | Teste **OK** em 29/06  |
+| Novo Agendamento | CT 1  | Validar combo box de Categoria | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Selecionar o público em 'Categoria' | O botão combo box possua as opções disponíveis | Teste **OK** em 29/06 |
+| Novo Agendamento | CT 2  | Validar combo box de Serviço | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Selecionar o público em 'Serviço' | O botão combo box possua as opções disponíveis | Teste **OK** em 29/06 |
+| Novo Agendamento | CT 3  | Validar botão 'Anterior' | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Anterior'| O usuário deve ser direcionado à página home | Teste **OK** em 29/06 |
+| Novo Agendamento | CT 4  | Validar botão 'Próximo' | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo'| O usuário deve ser direcionado à página 'Selecione Local, Data e Horário de Vacinação' | Teste **OK** em 29/06 |
+| Selecione Local, Data e Horário de Vacinação | CT 1  | Validar combo box de Local | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo'<br> 4. Selecionar Local em 'Local'| O botão combo box possua as opções disponíveis | Teste **OK** em 29/06 |
+| Selecione Local, Data e Horário de Vacinação | CT 2  | Validar combo box de Data | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo'<br> 4. Selecionar data em 'Datas'| O botão combo box possua as opções disponíveis | Teste **OK** em 29/06 |
+| Selecione Local, Data e Horário de Vacinação | CT 3  | Validar combo box de Horário | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo' <br> 4. Selecionar o horário em 'Horários'| O botão combo box possua as opções disponíveis | Teste **OK** em 29/06 |
+| Selecione Local, Data e Horário de Vacinação | CT 4  | Validar botão 'Anterior' | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Anterior' <br> 4. Clicar em 'Anterior'| O usuário deve ser direcionado à página 'Novo Agendamento' | Teste **OK** em 29/06 |
+| Selecione Local, Data e Horário de Vacinação | CT 5  | Validar botão 'Próximo' | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo' <br> 4. Clicar em 'Próximo'| O usuário deve ser direcionado à página 'Dados Cadastrais' | Teste **OK** em 29/06 |
+| Dados Cadastrais | CT 1  | Validar caracter no campo 'Nome' | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo' <br> 4. Clicar em 'Próximo'<br> 5. Preencher campo 'Nome' com caractere especial <br> 6. Preencher campo 'Nome' com caracteres alfabético <br> 7. Preencher campo 'Nome' com caracteres numéricos <br> 8. Preencher campo 'Nome' com emojis | O campo deve permitir apenas caracteres alfabeticos do tipo texto | **REVER FEATURE** em 29/06 |
+| Dados Cadastrais | CT 2  | Validar caracter no campo 'CPF' | Idem Caso 2 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo' <br> 4. Clicar em 'Próximo'<br> 5. Preencher campo 'CPF' com caractere especial <br> 6. Preencher campo 'CPF' com caracteres alfabético <br> 7. Preencher campo 'CPF' com caracteres numéricos <br> 8. Preencher campo 'CPF' com emojis | O campo deve permitir apenas caracteres alfabeticos do tipo texto | **REVER FEATURE** em 29/06  |
+| Dados Cadastrais | CT 2  | Validar caracter no campo 'Telefone' | Idem Caso 2 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo' <br> 4. Clicar em 'Próximo'<br> 5. Preencher campo 'Telefone' com caractere especial <br> 6. Preencher campo 'Telefone' com caracteres alfabético <br> 7. Preencher campo 'Telefone' com caracteres numéricos <br> 8. Preencher campo 'Telefone' com emojis | O campo deve permitir apenas caracteres alfabeticos do tipo texto | **REVER FEATURE** em 29/06  |
+| Dados Cadastrais | CT 3  | Validar caracter no campo 'E-mail' | Idem Caso 2 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo' <br> 4. Clicar em 'Próximo'<br> 5. Preencher campo 'E-mail' com caractere especial <br> 6. Preencher campo 'E-mail' com caracteres alfabético <br> 7. Preencher campo 'E-mail' com caracteres numéricos <br> 8. Preencher campo 'E-mail' com emojis | O campo deve permitir apenas caracteres alfabeticos do tipo texto | **REVER FEATURE** em 29/06  |
+
 
 ## Avaliação
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
-
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+Os pontos fortes avaliados nos testes dispõem da fácil usabilidade e interface interativa da aplicação, obedecendo aos comandos essenciais que o usuário executa, o que por sua vez, garante maior interatividade. Os botões funcionam corretamente, cumprindo com sua funcionalidade e atentendo aos requisitos prinicpais e essenciais da aplicação. Seus pontos de desenvolvimento requerem refinamento na feature de Dados Cadastrais, para que, de forma a não incorrer em bugs e ou erros de preenchimento, limitem os caracteres dos campos à informação que é solicitada no momento do preenchimento, merecendo portanto, uma revisão destes aspectos. 
