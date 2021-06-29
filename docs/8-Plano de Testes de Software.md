@@ -20,9 +20,6 @@
 | Dados Cadastrais | CT 2  | Validar caracter no campo 'Telefone' | Idem Caso 2 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo' <br> 4. Clicar em 'Próximo'<br> 5. Preencher campo 'Telefone' com caractere especial <br> 6. Preencher campo 'Telefone' com caracteres alfabético <br> 7. Preencher campo 'Telefone' com caracteres numéricos <br> 8. Preencher campo 'Telefone' com emojis | O campo deve permitir apenas caracteres alfabeticos do tipo texto |  |
 | Dados Cadastrais | CT 3  | Validar caracter no campo 'E-mail' | Idem Caso 2 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Clicar no botão 'Próximo' <br> 4. Clicar em 'Próximo'<br> 5. Preencher campo 'E-mail' com caractere especial <br> 6. Preencher campo 'E-mail' com caracteres alfabético <br> 7. Preencher campo 'E-mail' com caracteres numéricos <br> 8. Preencher campo 'E-mail' com emojis | O campo deve permitir apenas caracteres alfabeticos do tipo texto |  |
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
-
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
  
 ## Ferramentas de Testes (Opcional)
 
