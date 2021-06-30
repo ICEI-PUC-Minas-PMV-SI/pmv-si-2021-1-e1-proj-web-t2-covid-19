@@ -20,19 +20,20 @@ document.getElementById("btn-prox-2").addEventListener("click", function(){
 
 document.getElementById("btn-prox-3").addEventListener("click", function(){ 
 
-    var varLocal = document.getElementById("local").value;
+    var varLocal = String(document.getElementById("local").value);
 
     localStorage.setItem("varLocal", varLocal);
 
 
-    var varData = document.getElementById("data").value;
+    var varData = String(document.getElementById("data").value);
 
     localStorage.setItem("varData", varData);
 
 
-    var varHorario = document.getElementById("horario").value;
+    var varHorario = String(document.getElementById("horario").value);
 
     localStorage.setItem("varHorario", varHorario);
+
 
     window.location.href = "4dados.html";
 
@@ -66,7 +67,7 @@ document.getElementById("btn-prox-4").addEventListener("click", function(){
     var varTelefone = document.getElementById("telefone").value;
 
     localStorage.setItem("varTelefone", varTelefone);
-    
+
 
     var varEmail = document.getElementById("email").value;
 
@@ -96,6 +97,6 @@ document.getElementById("cadastroFinal").addEventListener("onload", function (){
 
     let resumoCadastro = 'Serviço: ${finalServico} \n Categoria: ${finalCategoria} \n Local: ${finalLocal} \n Data: ${finalData} \n  Horário: ${finalHorario} \n  Nome: ${finalNome} \n Sexo: ${finalSexo} \n Nascimento: ${finalNascimento} \n CPF: ${finalCPF} \n Telefone: ${finalTelefone} \n Email: ${finalEmail}';
     
-    let finalDIV = document.getElementById("cadastroFinal").innerHTML 
-    finalDIV.innerHTML = resumoCadastro
+    let finalDIV = document.getElementById("cadastroFinal").innerHTML;
+    finalDIV.innerHTML = resumoCadastro;
 }); 
