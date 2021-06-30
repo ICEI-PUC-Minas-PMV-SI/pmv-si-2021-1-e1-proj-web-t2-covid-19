@@ -12,11 +12,11 @@
     let finalTelefone = localStorage.getItem("varTelefone");
     let finalEmail = localStorage.getItem("varEmail");
 
-    let resumoCadastro = `<p><b>Serviço:</b> ${finalServico} </P> <b>Categoria:</b> ${finalCategoria} </p>
-    <p><b>Local:</b> ${finalLocal} \n <b>Data:</b> ${finalData} <b>Horário:</b> ${finalHorario} </p>
-    <p><b>Nome: ${finalNome} \n <b>Sexo:</b> ${finalSexo}</p> 
-    <p><b>Nascimento:</b> ${finalNascimento} \n <b>CPF:<b> ${finalCPF} </p>
-    <p><b>Telefone:<b> ${finalTelefone} \n <b>Email:<b> ${finalEmail}</p>`;
+    let resumoCadastro = `<p><b>Serviço:</b> ${finalServico} <b>Categoria:</b> ${finalCategoria} </p>
+    <p><b>Local:</b> ${finalLocal}  <b>Data:</b> ${finalData} <b>Horário:</b> ${finalHorario} </p>
+    <p><b>Nome: ${finalNome}  <b>Sexo:</b> ${finalSexo}</p> 
+    <p><b>Nascimento:</b> ${finalNascimento}  <b>CPF:<b> ${finalCPF} </p>
+    <p><b>Telefone:<b> ${finalTelefone}  <b>Email:<b> ${finalEmail}</p>`;
     
     let finalDIV = document.getElementById("cadastroFinal") 
     finalDIV.innerHTML = resumoCadastro
