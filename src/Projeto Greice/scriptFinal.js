@@ -20,3 +20,5 @@
     
     let finalDIV = document.getElementById("cadastroFinal") 
     finalDIV.innerHTML = resumoCadastro
+
+    
