@@ -6,10 +6,6 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Diagrama de componentes
 
-Diagrama que permite a modelagem física de um sistema, através da visão dos seus componentes e relacionamentos entre os mesmos.
-
-Exemplo: 
-
 Os componentes que fazem parte da solução são apresentados na Figura XX.
 
 ![Diagrama de Componentes](img/componentes.png)
@@ -29,33 +25,16 @@ A solução implementada conta com os seguintes módulos:
 >
 > - [Whimsical](https://whimsical.com/)
 
-Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
+**FLUXO DO USUÁRIO**
 
 A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
 que o usuário entra na plataforma, ele é apresentado à tela inicial
-(Tela 1) onde ele é confrontado com as opões de editar seu perfil ou
-então visualizar sua galeria.
+(Tela 1) onde ele é confrontado com as opões de 'novo agendamento' e 'consulta'.
 
-Caso ele opte por seguir pelo primeiro caminho (Editar Perfil), ele é
-redirecionado para a tela de edição de perfil (Tela 2), onde pode
-atualizar seus dados cadastrais. Nessa tela, o usuário também pode
-escolher para editar sua foto de perfil. Ao selecionar essa opção, ele é
-redirecionado para a Tela 3, onde ele a imagem expandida do perfil do
-usuário é mostrado. Ao selecionar a opção para atualizar a imagem, uma
-nova janela abre pedindo para o usuário fazer o upload da nova foto.
-Assim que o processo termina um pop-up exibe o status para o usuário
-(Tela 4) e o usuário é redirecionado para a Tela 2.
+Caso ele opte por seguir pelo primeiro caminho (Novo Agendamento), ele é
+redirecionado para a tela seguinte, para escolha de serviços (Tela 2), onde deve selecionar tanto a categoria a que pertence quanto o tipo de serviço/vacina que será aplicada. Nessa tela, o usuário pode clicar em 'anterior' para voltar à tela inicial ou em 'próximo' dando sequência no agendamento. Ao selecionar 'próximo', ele é redirecionado para a Tela 3, onde terá agora, de selecionar o local, data e horário de vacinação disponíveis. Novamente, o usuário pode clicar em 'anterior' para voltar à tela de serviços ou em 'próximo' dando sequência no agendamento. Clicando em 'pórximo' será direcionado a Tela 4, que conterão os daos cadastrais, que devem ser preeenchidos. Ao selecionar a opção 'proximo', o usuário é direcionado à tela final (Tela 5) de confirmação de cadastro onde terão todas as suas informações cadastrais para que, após verificação, confirme.
 
-Caso o usuário opte seguir pelo segundo caminho (Visualizar Galeria) ele
-é redirecionado para a Tela 5 com todas as fotos que o usuário possui. O
-usuário pode clicar em um post qualquer para visualizar os detalhes do
-post (Tela 6). Nessa tela, ele pode então escolher editar o post, sendo
-redirecionado para a Tela 7. Ao editar as informações, o usuário pode
-escolher salvar ou deletar o post. Em ambos os casos o status é
-notificado para o usuário (Tela 8) e em seguida ele é redirecionado
-para a Tela 2.
-
-![Exemplo de UserFlow](img/userflow.jpg)
+![image](https://user-images.githubusercontent.com/81273377/124307185-d4866e80-db3d-11eb-94bd-f761bd87f285.png)
 
 
 ## Tecnologias Utilizadas
@@ -63,9 +42,6 @@ para a Tela 2.
 As tecnologias utilizadas para construção da aplicação e para proposta de resolução do problema apresentado, serão realizada através do Visual Studio Code, permitindo a configuração de linhas de código usando as linguagens CSS, HTML e JavaScript. 
 
 Para consolidação do código, recorreu-se também a framworks hospeadados pelo site Bootstrap e bibliotecas como node js aplicando o json-server.
-
-
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
 
 ## Hospedagem
