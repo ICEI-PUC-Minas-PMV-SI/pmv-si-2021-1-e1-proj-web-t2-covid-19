@@ -6,7 +6,7 @@
 
 |FEATURE | TESTE ID | DESCRIÇÃO | PRÉ-CONDIÇÃO | PASSOS | RESULTADO ESPERADO | NOTAS |
 |--------|----------|-----------|--------------|--------|--------------------|-------|
-| Home   |  CT 1  | Validar botão 'Novo Agendamento' | Ter acesso à <a href="http://127.0.0.1:5500/src/Projeto%20Greice/1index.html"> GREICE </a> |  1. Abrir página home <br> 2. Clicar em 'Novo Agendamento' | Ao clicar no botão, o usuário deve ser direcionado para a página de Serviços | Teste **OK** em 27/06 |
+| Home   |  CT 1  | Validar botão 'Novo Agendamento' | Ter acesso à <a href="http://127.0.0.1:5500/src/Projeto%20Greice/1index.html"> GREICE </a> |  1. Abrir página home <br> 2. Clicar em 'Novo Agendamento' | Ao clicar no botão, o usuário deve ser direcionado para a página de Serviços | ✔ |
 | Home  | CT 2 | Validar botão 'Consulta' | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Consultar' | Ao clicar no botão o usuário deve ser direcionado para a página de Consulta | ✔  |
 | Novo Agendamento | CT 1  | Validar combo box de Categoria | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Selecionar o público em 'Categoria' | O botão combo box possua as opções disponíveis | ✔ |
 | Novo Agendamento | CT 2  | Validar combo box de Serviço | Idem Caso 1 | 1. Abrir página home <br> 2. Clicar em 'Novo Agendamento <br> 3. Selecionar o público em 'Serviço' | O botão combo box possua as opções disponíveis | ✔ |
