@@ -11,7 +11,7 @@ Para a implementação das funcionalidades listam-se a seguir a descrição de p
  ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Status |
-|------|-------------------------|-      ---|
+|------|-------------------------|--------|
 |RF-001| Oferecer uma opção para solicitação de vacinação residencial para os públicos com restrição de mobilidade   | **X** | 
 |RF-002| Permitir ao administrador que defina os públicos convocados para vacinação | **X**  |
 |RF-003| Gestão de dados cadastrais do usuário | **X**  |
