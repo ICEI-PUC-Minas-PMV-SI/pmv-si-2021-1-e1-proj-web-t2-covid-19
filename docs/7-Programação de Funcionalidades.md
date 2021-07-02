@@ -8,9 +8,41 @@ Para a implementação das funcionalidades listam-se a seguir a descrição de p
 4. **PÁGINA 4**: inserção dos dados pessoais do usuário para cadastro do agendamento de vacinas;
 5. **PÁGINA 5**: página de confirmação do agendamento.
  
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+ ### Requisitos Funcionais
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+|ID    | Descrição do Requisito  | Status |
+|------|-------------------------|-      ---|
+|RF-001| Oferecer uma opção para solicitação de vacinação residencial para os públicos com restrição de mobilidade   | **X** | 
+|RF-002| Permitir ao administrador que defina os públicos convocados para vacinação | **X**  |
+|RF-003| Gestão de dados cadastrais do usuário | **X**  |
+|RF-004| Gestão de vacinas | **X**  |
+|RF-005| Permitir que o administrador tenha acesso aos cadastros |**X**  |
+|RF-006| Permitir ao administrador que cadastre os pontos de vacinação | **X**  |
+|RF-007| Permitir que o cadastro de dados pessoais em uma conta de usuário | **✔** |
+|RF-008| Informar se usuário pertence ao grupo de vacinação prioritário | **✔** |
+|RF-009| Apresentar ao usuário as instituições de sua cidade que disponilizam vacinação para que possa escolher  | **✔** | 
+|RF-010| Permitir que usuário selecione data e horário de agendamento disponível no sistema | A**✔**|.
+|RF-011| Criar barreamentos de cadastro com validação do usuário para agendamento | **X**  |
+|RF-012| Permitir que usuário cadastre dependentes (pais, filhos) | **✔** | 
+|RF-013| Enviar alerta em email cadastrado pelo usuário informando do agendamento | **X**  |
+|RF-014| Permitir que usuário acompanhe status de seu cadastro para vacinação (1ª e 2ª doses) | **✔** |
+|RF-015| Informar data estimada para a 2ª dose | **X**  |
+
+
+### Requisitos não Funcionais
+
+|ID     | Descrição do Requisito  |Status|
+|-------|-------------------------|----|
+|RNF-001| O sistema deve ser responsivo para rodar em navegadores | **✔** | 
+|RNF-002| O sistema deve garantir a segurança dos dados dos usuários | **✔**|
+|RNF-003| Sistema deve ter boa usabilidade  | **✔**|
+|RNF-004| Módulo de informações cadastrais offline | **✔** |
+|RNF-005| Deve processar requisições do usuário em no máximo 5s | **✔** | 
+|RNF-006| Permitir que seja possível trocar a coloração do site para Azul | **X** |
+|RNF-007| Permitir que seja possível trocar a coloração do site para Amarelo | **X** |
+|RNF-008| Permitir que seja possível trocar a coloração do site para Rosa | **X** |
+|RNF-009| Permitir que seja possível trocar a coloração do site para Vermelho | **X** |
+
 
 > **Links Úteis**:
 >
