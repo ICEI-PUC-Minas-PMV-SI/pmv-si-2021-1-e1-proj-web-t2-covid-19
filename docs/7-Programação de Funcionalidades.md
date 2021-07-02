@@ -21,7 +21,7 @@ Para a implementação das funcionalidades listam-se a seguir a descrição de p
 |RF-007| Permitir que o cadastro de dados pessoais em uma conta de usuário | **✔** |
 |RF-008| Informar se usuário pertence ao grupo de vacinação prioritário | **✔** |
 |RF-009| Apresentar ao usuário as instituições de sua cidade que disponilizam vacinação para que possa escolher  | **✔** | 
-|RF-010| Permitir que usuário selecione data e horário de agendamento disponível no sistema | A**✔**|.
+|RF-010| Permitir que usuário selecione data e horário de agendamento disponível no sistema | **✔**|.
 |RF-011| Criar barreamentos de cadastro com validação do usuário para agendamento | **X**  |
 |RF-012| Permitir que usuário cadastre dependentes (pais, filhos) | **✔** | 
 |RF-013| Enviar alerta em email cadastrado pelo usuário informando do agendamento | **X**  |
