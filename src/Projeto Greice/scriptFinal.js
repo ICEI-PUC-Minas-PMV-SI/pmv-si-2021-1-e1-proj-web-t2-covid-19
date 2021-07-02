@@ -21,4 +21,87 @@
     let finalDIV = document.getElementById("cadastroFinal") 
     finalDIV.innerHTML = resumoCadastro
 
+    /*
     
+    Quando clica em confirmar é preciso reunir todos os dados em uma variável json string. 
+    Confirmar e 
+    */
+
+    document.getElementById("btn-confirmar").addEventListener("click",function(){
+        
+        // Baixa a json string e a transforma em object
+        let atualDados = JSON.parse(localStorage.getItem("varDadosCadastrados"));
+
+        //adiciona dados do usuario ao objeto       
+
+        let novoCadastro = {
+            "cpf": "",
+            "servico": "",
+            "categoria": "",
+            "local": "",
+            "data": "",
+            "horario": "", 
+            "nome": "",
+            "sexo": "",
+            "nascimento": "",
+            "telefone": "",
+            "email": "",
+            }
+
+            novoCadastro.cpf = localStorage.getItem("varCPF");
+            novoCadastro.servico = localStorage.getItem("varCPF");
+            novoCadastro.categoria = localStorage.getItem("varCategoria");
+            novoCadastro.local = localStorage.getItem("varLocal");
+            novoCadastro.data = localStorage.getItem("varData");
+            novoCadastro.horario = localStorage.getItem("varHorario");
+            novoCadastro.nome = localStorage.getItem("varNome");
+            novoCadastro.sexo = localStorage.getItem("varSexo");
+            novoCadastro.nascimento = localStorage.getItem("varNascimento");
+            novoCadastro.telefone = localStorage.getItem("varTelefone");
+            novoCadastro.email = localStorage.getItem("varEmail");
+
+            atualDados += novoCadastro
+           // atualDados[atualDados.length + 1]
+
+
+        //salva em localStorage em formato json string        
+        localStorage.setItem("varDadosCadastrados", JSON.stringify(atualDados));
+    }   
+
+        //o que fazer quando for o primeiro cadastro e não houver item setado no localStorage
+
+
+
+
+    var dadosUsuarios = {"dadosCadastrados": [
+
+        {
+        "cpf": "",
+        "servico": "",
+        "categoria": "",
+        "local": "",
+        "data": "",
+        "horario": "", 
+        "nome": "",
+        "sexo": "",
+        "nascimento": "",
+        "telefone": "",
+        "email": "",
+    
+        }
+        {
+            "cpf": "",
+            "servico": "",
+            "categoria": "",
+            "local": "",
+            "data": "",
+            "horario": "", 
+            "nome": "",
+            "sexo": "",
+            "nascimento": "",
+            "telefone": "",
+            "email": "",
+            }
+ 
+    ]
+    }
