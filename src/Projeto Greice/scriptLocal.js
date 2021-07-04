@@ -19,4 +19,3 @@ document.getElementById("btn-prox-3").addEventListener("click", function(){
     window.location.href = "4dados.html";
 
 }); 
-
