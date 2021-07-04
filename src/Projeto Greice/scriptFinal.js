@@ -1,4 +1,4 @@
-/* Print Cadastro - Conclusão e consulta de cadastro*/
+// Print Cadastro - Conclusão de Cadastro 
 
     let finalServico = localStorage.getItem("varServico");
     let finalCategoria = localStorage.getItem("varCategoria");
@@ -18,90 +18,29 @@
     <p><b>Nascimento:</b> ${finalNascimento}  <b>CPF:</b> ${finalCPF} </p>
     <p><b>Telefone:</b> ${finalTelefone} <b>Email:</b> ${finalEmail}</p>`;
     
-    let finalDIV = document.getElementById("cadastroFinal") 
+    let finalDIV = document.getElementById("cadastroFinal")
     finalDIV.innerHTML = resumoCadastro
 
-    /*
-    
-    Quando clica em confirmar é preciso reunir todos os dados em uma variável json string. 
-    Confirmar e 
-    */
+// Botão Confirmar - Salva o cadastro em localStorage
 
     document.getElementById("btn-confirmar").addEventListener("click",function(){
         
-        // Baixa a json string e a transforma em object
         let atualDados = JSON.parse(localStorage.getItem("varDadosCadastrados"));
+        let key = `${finalCPF}`;
+        atualDados[key] = [
+                `${finalNome}`,
+                `${finalServico}`, 
+                `${finalCategoria}`,
+                `${finalLocal}`,
+                `${finalData}`,
+                `${finalHorario}`,
+                `${finalSexo}`,
+                `${finalNascimento}`,
+                `${finalTelefone}`,
+                `${finalEmail}`,
+                ]         
 
-        //adiciona dados do usuario ao objeto       
+        atualDados = JSON.stringify(atualDados);
 
-        let novoCadastro = {
-            "cpf": "",
-            "servico": "",
-            "categoria": "",
-            "local": "",
-            "data": "",
-            "horario": "", 
-            "nome": "",
-            "sexo": "",
-            "nascimento": "",
-            "telefone": "",
-            "email": "",
-            }
-
-            novoCadastro.cpf = localStorage.getItem("varCPF");
-            novoCadastro.servico = localStorage.getItem("varCPF");
-            novoCadastro.categoria = localStorage.getItem("varCategoria");
-            novoCadastro.local = localStorage.getItem("varLocal");
-            novoCadastro.data = localStorage.getItem("varData");
-            novoCadastro.horario = localStorage.getItem("varHorario");
-            novoCadastro.nome = localStorage.getItem("varNome");
-            novoCadastro.sexo = localStorage.getItem("varSexo");
-            novoCadastro.nascimento = localStorage.getItem("varNascimento");
-            novoCadastro.telefone = localStorage.getItem("varTelefone");
-            novoCadastro.email = localStorage.getItem("varEmail");
-
-            atualDados += novoCadastro
-           // atualDados[atualDados.length + 1]
-
-
-        //salva em localStorage em formato json string        
-        localStorage.setItem("varDadosCadastrados", JSON.stringify(atualDados));
-    }   
-
-        //o que fazer quando for o primeiro cadastro e não houver item setado no localStorage
-
-
-
-
-    var dadosUsuarios = {"dadosCadastrados": [
-
-        {
-        "cpf": "",
-        "servico": "",
-        "categoria": "",
-        "local": "",
-        "data": "",
-        "horario": "", 
-        "nome": "",
-        "sexo": "",
-        "nascimento": "",
-        "telefone": "",
-        "email": "",
-    
-        }
-        {
-            "cpf": "",
-            "servico": "",
-            "categoria": "",
-            "local": "",
-            "data": "",
-            "horario": "", 
-            "nome": "",
-            "sexo": "",
-            "nascimento": "",
-            "telefone": "",
-            "email": "",
-            }
- 
-    ]
-    }
+        localStorage.setItem("varDadosCadastrados", atualDados);
+    })
