@@ -25,22 +25,69 @@
 
     document.getElementById("btn-confirmar").addEventListener("click",function(){
         
-        let atualDados = JSON.parse(localStorage.getItem("varDadosCadastrados"));
-        let key = `${finalCPF}`;
-        atualDados[key] = [
-                `${finalNome}`,
-                `${finalServico}`, 
-                `${finalCategoria}`,
-                `${finalLocal}`,
-                `${finalData}`,
-                `${finalHorario}`,
-                `${finalSexo}`,
-                `${finalNascimento}`,
-                `${finalTelefone}`,
-                `${finalEmail}`,
-                ]         
+        if (localStorage.getItem("varDadosCadastrados") == null) {
+            
+            let noDados = { "06487895421" : [
+                "Rodrigo Lopes",
+                "Vacina AstraZeneca - 2ª dose", 
+                "Entre 75 e 76 anos",
+                "Posto de Saúde",
+                "09/07/2021",
+                "15:25",
+                "Masculino",
+                "09/07/2045",
+                "34985245",
+                "rodrigo.lopes@gmail.com",
+            ]}
 
-        atualDados = JSON.stringify(atualDados);
+                noDados = JSON.stringify(noDados);
+                localStorage.setItem("varDadosCadastrados", noDados);
+                
+            let atualDados = JSON.parse(localStorage.getItem("varDadosCadastrados"));
+            let key = `${finalCPF}`;
+            atualDados[key] = [
+                    `${finalNome}`,
+                    `${finalServico}`, 
+                    `${finalCategoria}`,
+                    `${finalLocal}`,
+                    `${finalData}`,
+                    `${finalHorario}`,
+                    `${finalSexo}`,
+                    `${finalNascimento}`,
+                    `${finalTelefone}`,
+                    `${finalEmail}`,
+                    ]         
+    
+            atualDados = JSON.stringify(atualDados);
+    
+            localStorage.setItem("varDadosCadastrados", atualDados);
+            
+        }
 
-        localStorage.setItem("varDadosCadastrados", atualDados);
+        else {
+
+            let atualDados = JSON.parse(localStorage.getItem("varDadosCadastrados"));
+            let key = `${finalCPF}`;
+            atualDados[key] = [
+                    `${finalNome}`,
+                    `${finalServico}`, 
+                    `${finalCategoria}`,
+                    `${finalLocal}`,
+                    `${finalData}`,
+                    `${finalHorario}`,
+                    `${finalSexo}`,
+                    `${finalNascimento}`,
+                    `${finalTelefone}`,
+                    `${finalEmail}`,
+                    ]         
+    
+            atualDados = JSON.stringify(atualDados);
+    
+            localStorage.setItem("varDadosCadastrados", atualDados);
+
+        }
+
+        window.location.href = "1index.html";
+        alert("Agendamento realizado com sucesso!");
+        
     })
