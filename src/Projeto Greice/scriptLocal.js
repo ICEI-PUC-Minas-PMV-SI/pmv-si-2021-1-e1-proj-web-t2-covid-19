@@ -17,6 +17,6 @@ document.getElementById("btn-prox-3").addEventListener("click", function(){
     localStorage.setItem("varHorario", varHorario);
 
     window.location.href = "4dados.html";
-
+    
 }); 
 
