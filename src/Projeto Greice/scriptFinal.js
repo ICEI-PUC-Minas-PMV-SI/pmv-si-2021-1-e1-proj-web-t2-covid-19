@@ -1,4 +1,4 @@
-/* Print Cadastro - Conclusão e consulta de cadastro*/
+// Print Cadastro - Conclusão de Cadastro 
 
     let finalServico = localStorage.getItem("varServico");
     let finalCategoria = localStorage.getItem("varCategoria");
@@ -18,7 +18,29 @@
     <p><b>Nascimento:</b> ${finalNascimento}  <b>CPF:</b> ${finalCPF} </p>
     <p><b>Telefone:</b> ${finalTelefone} <b>Email:</b> ${finalEmail}</p>`;
     
-    let finalDIV = document.getElementById("cadastroFinal") 
+    let finalDIV = document.getElementById("cadastroFinal")
     finalDIV.innerHTML = resumoCadastro
 
-    
+// Botão Confirmar - Salva o cadastro em localStorage
+
+    document.getElementById("btn-confirmar").addEventListener("click",function(){
+        
+        let atualDados = JSON.parse(localStorage.getItem("varDadosCadastrados"));
+        let key = `${finalCPF}`;
+        atualDados[key] = [
+                `${finalNome}`,
+                `${finalServico}`, 
+                `${finalCategoria}`,
+                `${finalLocal}`,
+                `${finalData}`,
+                `${finalHorario}`,
+                `${finalSexo}`,
+                `${finalNascimento}`,
+                `${finalTelefone}`,
+                `${finalEmail}`,
+                ]         
+
+        atualDados = JSON.stringify(atualDados);
+
+        localStorage.setItem("varDadosCadastrados", atualDados);
+    })
