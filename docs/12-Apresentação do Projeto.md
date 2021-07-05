@@ -6,7 +6,7 @@ Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do proje
 
 ## Título do Projeto
 
-GREICE 
+GREICE - Gestão de Registro de Imunização contra a COVID-19
 
 ## Identidade Visual (Marca, Design)
 

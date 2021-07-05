@@ -23,7 +23,7 @@ A solução implementada conta com os seguintes módulos:
 
 A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
 que o usuário entra na plataforma, ele é apresentado à tela inicial
-(Tela 1) onde ele é confrontado com as opões de 'novo agendamento' e 'consulta'.
+(Tela 1) onde é confrontado com as opões de 'novo agendamento' e 'consulta'.
 
 Caso ele opte por seguir pelo primeiro caminho (Novo Agendamento), ele é
 redirecionado para a tela seguinte, para escolha de serviços (Tela 2), onde deve selecionar tanto a categoria a que pertence quanto o tipo de serviço/vacina que será aplicada. Nessa tela, o usuário pode clicar em 'anterior' para voltar à tela inicial ou em 'próximo' dando sequência no agendamento. Ao selecionar 'próximo', ele é redirecionado para a Tela 3, onde terá agora, de selecionar o local, data e horário de vacinação disponíveis. Novamente, o usuário pode clicar em 'anterior' para voltar à tela de serviços ou em 'próximo' dando sequência no agendamento. Clicando em 'pórximo' será direcionado a Tela 4, que conterão os daos cadastrais, que devem ser preeenchidos. Ao selecionar a opção 'proximo', o usuário é direcionado à tela final (Tela 5) de confirmação de cadastro onde terão todas as suas informações cadastrais para que, após verificação, confirme.
@@ -35,16 +35,10 @@ redirecionado para a tela seguinte, para escolha de serviços (Tela 2), onde dev
 
 As tecnologias utilizadas para construção da aplicação e para proposta de resolução do problema apresentado, serão realizada através do Visual Studio Code, permitindo a configuração de linhas de código usando as linguagens CSS, HTML e JavaScript. 
 
-Para consolidação do código, recorreu-se também a framworks hospeadados pelo site Bootstrap e bibliotecas como node js aplicando o json-server.
+Para consolidação do código, recorreu-se também o framework Bootstrap.
 
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+Por se tratar de um trabalho acadêmico, a aplicação não foi hospedada externamente. A execução e os testes se deram por meio do LiveServer do VSCode.
 
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
