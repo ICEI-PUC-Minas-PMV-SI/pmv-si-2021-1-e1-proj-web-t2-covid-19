@@ -1,4 +1,4 @@
-/*  Página Serviço e Categoria */
+
 
 document.getElementById("btn-prox-2").addEventListener("click", function(){ 
 

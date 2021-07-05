@@ -39,35 +39,4 @@ document.getElementById("btn-consulta").addEventListener("click", function(){
 
      }
 
-
-
 })
-
-/* 
-Receber os dados de input 
-fazer a busca dos dados 
-
-retornar print dos dados 
-ou
-retornar erro 
-
-BUSCA
-
-for (let i in myObj.cars) {
-  x += myObj.cars[i];
-} 
-
-  for (let i = 0; i < myObj.cars.length; i++) {
-  x += myObj.cars[i];
-} 
-
-
-includes()
-
-This method checks if an array contains a certain item. It is similar to .some(), but instead of looking for a specific condition to pass, it checks if the array contains a specific item.
-
-let users = ['paddy', 'zaddy', 'faddy', 'baddy'];
-users.includes('baddy'); // returns true
-
-If the item is not found, it returns false
-  */
