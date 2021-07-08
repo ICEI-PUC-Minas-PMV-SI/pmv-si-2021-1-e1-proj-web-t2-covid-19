@@ -12,12 +12,14 @@ GREICE - Gestão de Registro de Imunização contra a COVID-19
 
 O grupo deve ter o cuidado em utilizar figuras, imagens, e cores dentro do contexto da solução proposta, de forma a manter a temática do problema.
 
-
 ## Conjunto de Slides (Estrutura)
 
-O grupo deve distribuir de forma coerente o conteúdo a ser apresentado, dentro do tempo determinado. Importante ressaltar a importância da descrição clara de todo o andamento do projeto, insumos gerados e requisitos atendidos.
+![Slide1](https://user-images.githubusercontent.com/81273377/124916237-d2eaf980-dfc8-11eb-99d3-3c13217d1c09.JPG)
+![Slide2](https://user-images.githubusercontent.com/81273377/124916283-df6f5200-dfc8-11eb-8a7e-3e93ae22d31d.JPG)
+![Slide3](https://user-images.githubusercontent.com/81273377/124916288-e1d1ac00-dfc8-11eb-83be-44f05da8d0cf.JPG)
+![Slide4](https://user-images.githubusercontent.com/81273377/124916261-daaa9e00-dfc8-11eb-9165-b0f926e39f09.JPG)
+
+## Video
+
+https://www.lumen5.com/user/leandrogobbo/untitled-video-g3jdb/
  
-> **Links Úteis**:
-> - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
-> - [Top Tips for Effective Presentations](https://www.skillsyouneed.com/present/presentation-tips.html)
-> - [How to make a great presentation](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)
